@@ -2,7 +2,7 @@ Try-to-translate
 ================
 
 
-very useful Mac App. The main purpose to help you quickly translation.
+very useful Mac App. The main purpose to help you quick translation.
 =================================================================================
 
 
