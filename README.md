@@ -6,7 +6,7 @@ very useful Mac App. The main purpose to help you quick translation.
 =================================================================================
 
 
-![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_64/v1411138495/logo_o6x4ev.png)
+![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_96/v1415925480/TryToTranslate/logo.png)
 
 [![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_124/v1411092419/app-store-button_pw05je.png)](https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12)
 
@@ -26,6 +26,18 @@ Roadmap:
 * (3)UI upgrade.
 * (4)...
 * 
+
+================
+version 2.14.1112
+
+![](https://github.com/Romanysoft/Try-to-translate/blob/master/images/2.14.1112/c1.jpg)
+![](https://github.com/Romanysoft/Try-to-translate/blob/master/images/2.14.1112/c2.jpg)
+![](https://github.com/Romanysoft/Try-to-translate/blob/master/images/2.14.1112/c3.jpg)
+![](https://github.com/Romanysoft/Try-to-translate/blob/master/images/2.14.1112/c4.jpg)
+
+
+=================
+old version
 
 ![](https://github.com/Romanysoft/Try-to-translate/blob/master/images/2014-09-23_104552.png)
 ![](https://github.com/Romanysoft/Try-to-translate/blob/master/images/2014-09-23_105010.png)
