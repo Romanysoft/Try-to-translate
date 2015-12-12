@@ -18,7 +18,6 @@
     <link rel="apple-touch-icon-precomposed" href="images/ico/logo_57.png">
     <link rel="shortcut icon" href="images/ico/logo_64.png">
 
-    
     <script src="js/common/jquery-2.1.4.min.js"></script>
     <script src="js/common/artTemplate/3.0/template.js"></script>
     <script src="js/config.js"></script>
@@ -28,25 +27,20 @@
 <body>
     <section class="top-bar">
     </section>
-    
-    <section class="page-header">
-        <h1 class="project-name"></h1>
-        <h2 class="project-tagline"></h2>
-    </section>
+
 
     <section class="main-content">
-        <div class="app-screens">
+        <div id="versions-content">
         </div>
-        <div class="section-features">
-        </div>
-        <div class="section-reviews">
-        </div>
-        <h3></h3>
+
         <footer class="site-footer">
         </footer>
-
     </section>
-        
+    <section>
+    </section>
+    
+    
+    
     <!-- TopBar template -->
      <script id="topbar-content-tmpl" type="text/html">
           <div class="wrapper no-pad">
@@ -58,54 +52,31 @@
          </div>
     </script>
     
-    <!-- Scrrens template -->
-    <script id="screen-content-tmpl" type="text/html">
-        {{each list as imgUrl}}
-         <img src="{{imgUrl}}">
-        {{/each}}
-    </script>
-    
-    <!--- Features template --->
-    <script id="features-content-tmpl" type="text/html">
-        <h3><a id="app-features" class="anchor" href="" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{SectionName}}</h3>
+    <!-- Version template -->
+    <script id="version-content-tmpl" type="text/html">
+        {{each list as oneVersion}}
+        <h3><a id="app-features" class="anchor" href="" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{labelVersion}} {{#oneVersion.version}}</h3>
         <div>
-            <ul class="features-list">
-                {{each list as oneFeature}}
+            <ul class="release-downloads">
+                {{each oneVersion.zipList as zip}}
                 <li>
-                    <strong>{{oneFeature}}</strong>
+                    <a href="{{#zip.downURL}}">
+                        <small class="text-muted right">{{zip.size}}</small>
+                        <span class="octicon octicon-package left text-muted "></span>
+                        <img src="{{#zip.osUrl}}"/>
+                        <strong>{{zip.name}}</strong>
+                    </a>
                 </li>
                 {{/each}}
             </ul>
         </div>
+        {{/each}}
     </script>
     
-    <!-- Reviews template--->
-    <script id="review-content-tmpl" type="text/html">
-        <h3><a id="app-features" class="anchor" href="" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{SectionName}}</h3>
-        <div class="people-saying-content">
-            <div class="row quotes">
-                {{each list as review}}
-                <div class="span3">
-                    <blockquote>
-                        <p>
-                            {{review.reviewContent}}
-                            <a href=""></a>
-                        </p>
-                        <small><a>{{review.userName}}</a>
-							<br>
-							{{review.professional}}
-                        </small>
-                    </blockquote>
-                </div>
-                {{/each}}
-            </div>
-        </div>
-    </script>
-
     <script src="js/l10n.js"></script>
+    <script src="js/views/view-versions-page.js"></script>
     <script src="js/views/top-bar.js"></script>
     <script src="js/views/footer.js"></script>
-    <script src="js/views/view-index-page.js"></script>
     <script src="js/app.js"></script>
 </body>
 

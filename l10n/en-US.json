@@ -1,0 +1,125 @@
+{
+    "TopBar":{
+        "Home":"Home",
+        "Feature":"Feature",
+        "Documents":"Documents",
+        "ReleaseNotes":"ReleaseNotes",
+        "Downloads":"Downloads",
+        "Buy":"Buy",
+        "Roadmap":"Roadmap",
+        "ReportIssue":"ReportIssue"
+    },
+    
+    "Footer":{
+        
+    },
+    
+    "HomePage":{
+        "ProjectTagline":"Very useful App. Main purpose to help you quickly translation. For Windows, Linux, MacOSX.",
+        "Screens":[
+            "images/screens/en_US/c1.jpg",
+            "images/screens/en_US/c2.jpg",
+            "images/screens/en_US/c3.jpg",
+            "images/screens/en_US/c4.jpg",
+            "images/screens/en_US/c5.jpg"
+        ],
+        
+        "Features":{
+            "SectionName":"Main Features",
+            "list":[
+                "Source Language Text auto detect.",
+                "Sync translation",
+                "Support more than 81 languages",
+                "Supports one kind of language translation into multiple languages"
+            ]
+        },
+        
+        "UserReviews":{
+            "SectionName":"Wonderful things people are saying about it",
+            "list":[
+                {
+                    "reviewContent":"Try to translate is stunning. Simple. Clean. Perfect. Well done.",
+                    "userName":"evanw ",
+                    "professional":"Technology Evangelist"
+                },
+                {
+                    "reviewContent":"Try to translate is what I do pretty much all of my writing in. It's a great little app.",
+                    "userName":"Peter Bright ",
+                    "professional":"Writer at Ars Technica"
+                },
+                {
+                    "reviewContent":"If you have any interest in Markdown, Try to translate is definitely worth a download.",
+                    "userName":"LifeHacker ",
+                    "professional":"Web Developer and Designer"
+                },
+                {
+                    "reviewContent":"I really like Try to translate, has brought much convenience for my work.",
+                    "userName":"jeruss ",
+                    "professional":"PHP Framework Developer"
+                }
+            ]
+        }
+    },
+    
+    "FeaturePage":{
+        
+    },
+    
+    "DocumentsPage":{
+        
+    },
+    
+    "ReleaseNotePage":{
+        "labelVersion":"Version ",
+        "list":[{
+            "version":"3.18.0",
+            "list":[
+                {"platform":"MacOSX", "content":"1.Kernel updates"},
+                {"platform":"MacOSX", "content":"2.Optimize the translation engine"},
+                {"platform":"Windows", "content":"First released."},
+                {"platform":"Linux", "content":"First released."}
+            ]
+        }]
+    },
+    
+    "VersionPage":{
+        "labelVersion":"Version"
+    },
+    
+    "BuyPage":{
+            "SectionName":"Buy Way",
+            "list":[
+                {
+                    "name":"Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10",
+                    "logo":"images/buy/buy.png",
+                    "price":"$9.99",
+                    "buyURL":"https://shopper.mycommerce.com/checkout/cart/new/55399-39"
+                },
+                {
+                    "name":"Try to translate for MacOSX, for MacOSX 10.7 and later",
+                    "logo":"images/buy/buy.png",
+                    "price":"$9.99",
+                    "buyURL":"https://shopper.mycommerce.com/checkout/cart/new/55399-34"
+                },
+                {
+                     "name":"Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later",
+                    "logo":"images/buy/mas.png",
+                    "price":"$9.99",
+                    "buyURL":"https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12"
+                },
+                {
+                    "name":"Try to translate for linux",
+                    "logo":"images/buy/buy.png",
+                    "price":"$9.99",
+                    "buyURL":"https://shopper.mycommerce.com/checkout/cart/new/55399-40"
+                }
+            ]
+    },
+    
+    "RoadMapPage":{
+        
+    }
+    
+
+  
+}
