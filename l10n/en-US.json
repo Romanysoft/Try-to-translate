@@ -87,8 +87,8 @@
         "list":[{
             "version":"3.18.0",
             "zipList":[
-                {"osUrl":"images/download/win32.png", "name":"Trytotranslate-v3.18-win32-x86-setup.exe", "size":"44.7MB", "downURL":"https://bitbucket.org/romanysoft/fileshare/downloads/Trytotranslate-v3.18-win32-x86-setup.exe"},
-                {"osUrl":"images/download/win32.png","name":"Trytotranslate-v3.18-win32-x64-setup.exe", "size":"53.4MB", "downURL":"https://bitbucket.org/romanysoft/fileshare/downloads/Trytotranslate-v3.18-win32-x64-setup.exe"},
+                {"osUrl":"images/download/win32.png", "name":"Trytotranslate-v3.18-win32-x86-setup.exe", "size":"44.7MB", "downURL":"http://www.filefactory.com/file/2kpppf0eskjn/Trytotranslate-v3.18-win32-x86-setup.exe"},
+                {"osUrl":"images/download/win32.png","name":"Trytotranslate-v3.18-win32-x64-setup.exe", "size":"53.4MB", "downURL":"http://www.filefactory.com/file/740imedq4vj3/Trytotranslate-v3.18-win32-x64-setup.exe"},
                 {"osUrl":"images/download/osx.png", "name":"TryToTranslate-v3.18.0-darwin-x64.zip", "size":"4.8MB", "downURL":"http://www.filefactory.com/file/7kqhmp1c5cjp/TryToTranslate-v3.18.0-darwin-x64.zip"},
                 {"osUrl":"images/download/linux.png", "name":"Trytotranslate-v3.18-linux-ia32-install.tar.gz", "size":"38.6MB", "downURL":"https://bitbucket.org/romanysoft/fileshare/downloads/Trytotranslate-v3.18-linux-ia32-install.tar.gz"},
                 {"osUrl":"images/download/linux.png","name":"Trytotranslate-v3.18-linux-x64-install.tar.gz", "size":"38.6MB", "downURL":"http://www.filefactory.com/file/1bzx0pt29hdv/Trytotranslate-v3.18-linux-x64-install.tar.gz"}
