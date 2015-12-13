@@ -1,0 +1,135 @@
+{
+    "TopBar":{
+        "Home":"主页",
+        "Feature":"产品特性",
+        "Documents":"文档",
+        "ReleaseNotes":"发布日志",
+        "Downloads":"下载",
+        "Buy":"购买",
+        "Roadmap":"产品路线",
+        "ReportIssue":"提交问题"
+    },
+    
+    "Footer":{
+        
+    },
+    
+    "HomePage":{
+        "ProjectTagline":"非常实用的工具，帮助你快速翻译。 Windows, Linux, 苹果电脑都可以使用",
+        "Screens":[
+            "images/screens/zh_CN/c1.png",
+            "images/screens/zh_CN/c2.png",
+            "images/screens/zh_CN/c3.png",
+            "images/screens/zh_CN/c4.png"
+        ],
+        
+        "Features":{
+            "SectionName":"产品主要特性",
+            "list":[
+                "输入源语言自动检测",
+                "快速同步翻译功能",
+                "支持80多种各国语言",
+                "同时支持将一种语言翻译成多种语言",
+                "内置多语言界面"
+            ]
+        },
+        
+        "UserReviews":{
+            "SectionName":"看看大家的评价",
+            "list":[
+                {
+                    "reviewContent":"Try to translate is stunning. Simple. Clean. Perfect. Well done.",
+                    "userName":"evanw ",
+                    "professional":"Technology Evangelist"
+                },
+                {
+                    "reviewContent":"Try to translate is what I do pretty much all of my writing in. It's a great little app.",
+                    "userName":"Peter Bright ",
+                    "professional":"Writer at Ars Technica"
+                },
+                {
+                    "reviewContent":"If you have any interest in Markdown, Try to translate is definitely worth a download.",
+                    "userName":"LifeHacker ",
+                    "professional":"Web Developer and Designer"
+                },
+                {
+                    "reviewContent":"I really like Try to translate, has brought much convenience for my work.",
+                    "userName":"jeruss ",
+                    "professional":"PHP Framework Developer"
+                }
+            ]
+        }
+    },
+    
+    "FeaturePage":{
+        
+    },
+    
+    "DocumentsPage":{
+        
+    },
+    
+    "ReleaseNotePage":{
+        "labelVersion":"版本 ",
+        "list":[{
+            "version":"3.18.0",
+            "list":[
+                {"platform":"MacOSX", "content":"1.内核更新"},
+                {"platform":"MacOSX", "content":"2.优化翻译引擎"},
+                {"platform":"Windows", "content":"第一次发布，与MacOS版本同步."},
+                {"platform":"Linux", "content":"第一次发布，与MacOS版本同步."}
+            ]
+        }]
+    },
+    
+    "VersionPage":{
+        "labelVersion":"版本",
+        "list":[{
+            "version":"3.18.0",
+            "zipList":[
+                {"osUrl":"images/download/win32.png", "name":"Trytotranslate-v3.18-win32-x86-setup.exe", "size":"44.7MB", "downURL":"http://pan.baidu.com/s/1skwMUq5"},
+                {"osUrl":"images/download/win32.png","name":"Trytotranslate-v3.18-win32-x64-setup.exe", "size":"53.4MB", "downURL":"http://pan.baidu.com/s/1jGYEEnc"},
+                {"osUrl":"images/download/osx.png", "name":"TryToTranslate-v3.18.0-darwin-x64.zip", "size":"4.8MB", "downURL":"http://pan.baidu.com/s/1kUgKgWf"},
+                {"osUrl":"images/download/linux.png", "name":"Trytotranslate-v3.18-linux-ia32-install.tar.gz", "size":"38.6MB", "downURL":"http://pan.baidu.com/s/1jHgMjYI"},
+                {"osUrl":"images/download/linux.png","name":"Trytotranslate-v3.18-linux-x64-install.tar.gz", "size":"38.6MB", "downURL":"http://pan.baidu.com/s/1ZAUC2"}
+            ]}
+        ]
+    },
+    
+    "BuyPage":{
+            "SectionName":"购买方式",
+            "list":[
+                {
+                    "name":"Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10",
+                    "logo":"images/buy/buy.png",
+                    "price":"$9.99",
+                    "buyURL":"https://shopper.mycommerce.com/checkout/cart/new/55399-39"
+                },
+                {
+                    "name":"Try to translate for MacOSX, for MacOSX 10.7 and later",
+                    "logo":"images/buy/buy.png",
+                    "price":"$9.99",
+                    "buyURL":"https://shopper.mycommerce.com/checkout/cart/new/55399-34"
+                },
+                {
+                     "name":"Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later",
+                    "logo":"images/buy/mas.png",
+                    "price":"$9.99",
+                    "buyURL":"https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12"
+                },
+                {
+                    "name":"Try to translate for linux",
+                    "logo":"images/buy/buy.png",
+                    "price":"$9.99",
+                    "buyURL":"https://shopper.mycommerce.com/checkout/cart/new/55399-40"
+                }
+            ]
+    },
+    
+    "RoadMapPage":{
+        
+    }
+    
+
+  
+}
