@@ -18,6 +18,9 @@
         $('.project-name').html(window.RTYConfig.appName);
         $('.project-tagline').html(l10n["ProjectTagline"]);
         
+        $('.btn-download-link').html(l10n['BtnDownload']);
+        $('.btn-buy-link').html(l10n['BtnBuy']);
+        
         // 更新Screents
         htmlContent = template('screen-content-tmpl', {list:l10n["Screens"]});
         $('.app-screens').html(htmlContent);

@@ -16,6 +16,8 @@
     
     "HomePage":{
         "ProjectTagline":"Very useful App. Main purpose to help you quickly translation. For Windows, Linux, MacOSX.",
+        "BtnDownload":"Download",
+        "BtnBuy":"Purchase",
         "Screens":[
             "images/screens/en_US/c1.jpg",
             "images/screens/en_US/c2.jpg",

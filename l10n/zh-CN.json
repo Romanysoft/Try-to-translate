@@ -16,6 +16,8 @@
     
     "HomePage":{
         "ProjectTagline":"非常实用的工具，帮助你快速翻译。 Windows, Linux, 苹果电脑都可以使用",
+        "BtnDownload":"下载",
+        "BtnBuy":"购买",
         "Screens":[
             "images/screens/zh_CN/c1.png",
             "images/screens/zh_CN/c2.png",
