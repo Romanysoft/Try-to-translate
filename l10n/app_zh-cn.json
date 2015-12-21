@@ -90,11 +90,11 @@
         "list":[{
             "version":"3.18.0",
             "zipList":[
-                {"osUrl":"images/download/win32.png", "name":"Trytotranslate-v3.18-win32-x86-setup.exe", "size":"44.7MB", "downURL":"http://pan.baidu.com/s/1skwMUq5"},
-                {"osUrl":"images/download/win32.png","name":"Trytotranslate-v3.18-win32-x64-setup.exe", "size":"53.4MB", "downURL":"http://pan.baidu.com/s/1jGYEEnc"},
-                {"osUrl":"images/download/osx.png", "name":"TryToTranslate-v3.18.0-darwin-x64.zip", "size":"4.8MB", "downURL":"http://pan.baidu.com/s/1kUgKgWf"},
-                {"osUrl":"images/download/linux.png", "name":"Trytotranslate-v3.18-linux-ia32-install.tar.gz", "size":"38.6MB", "downURL":"http://pan.baidu.com/s/1jHgMjYI"},
-                {"osUrl":"images/download/linux.png","name":"Trytotranslate-v3.18-linux-x64-install.tar.gz", "size":"38.6MB", "downURL":"http://pan.baidu.com/s/1ZAUC2"}
+                {"osUrl":"images/download/win32.png", "name":"Trytotranslate-v3.18-win32-x86-setup.exe", "size":"44.7MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"},
+                {"osUrl":"images/download/win32.png","name":"Trytotranslate-v3.18-win32-x64-setup.exe", "size":"53.4MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"},
+                {"osUrl":"images/download/osx.png", "name":"TryToTranslate-v3.18.0-darwin-x64.zip", "size":"4.8MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"},
+                {"osUrl":"images/download/linux.png", "name":"Trytotranslate-v3.18-linux-ia32-install.tar.gz", "size":"38.6MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"},
+                {"osUrl":"images/download/linux.png","name":"Trytotranslate-v3.18-linux-x64-install.tar.gz", "size":"38.6MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"}
             ]}
         ]
     },
