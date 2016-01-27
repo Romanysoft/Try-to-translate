@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "שטוב",
         "Feature": "פֿעיִקייטן",
-        "Documents": "אָנליין דאָקומענטאַטיאָן",
+        "Documents": "פייַל",
         "ReleaseNotes": "ריליס נאָטעס",
         "Downloads": "פּאָטער פּראָצעס",
         "Buy": "קויפן",
-        "Roadmap": "רוט",
-        "ReportIssue": "באריכט אַ פּראָבלעם",
+        "Roadmap": "פּראָדוקט שורה",
+        "ReportIssue": "ישו",
         "Languages": "שפּראַך"
     },
     "Footer": {},

@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Online Documentation",
+        "Documents": "File",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free Trial",
         "Buy": "buy",
-        "Roadmap": "route",
-        "ReportIssue": "Report a problem",
+        "Roadmap": "Product line",
+        "ReportIssue": "problem",
         "Languages": "Language"
     },
     "Footer": {},

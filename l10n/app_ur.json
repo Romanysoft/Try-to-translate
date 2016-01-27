@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "ہوم",
         "Feature": "خصوصیات",
-        "Documents": "آن لائن دستاویزی",
+        "Documents": "فائل",
         "ReleaseNotes": "ریلیز نوٹس",
         "Downloads": "مفت مقدمے کی سماعت",
         "Buy": "خریداری",
-        "Roadmap": "روٹ",
-        "ReportIssue": "ایک مسئلہ کی رپورٹ",
+        "Roadmap": "پروڈکٹ لائن",
+        "ReportIssue": "مسئلہ",
         "Languages": "زبان"
     },
     "Footer": {},

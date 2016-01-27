@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "ಮುಖಪುಟ",
         "Feature": "ವೈಶಿಷ್ಟ್ಯಗಳು",
-        "Documents": "ಆನ್ಲೈನ್ ದಾಖಲೆ",
+        "Documents": "ಫೈಲ್",
         "ReleaseNotes": "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು",
         "Downloads": "ಉಚಿತ ಟ್ರಯಲ್",
         "Buy": "ಖರೀದಿ",
-        "Roadmap": "ಮಾರ್ಗ",
-        "ReportIssue": "ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ",
+        "Roadmap": "ಉತ್ಪನ್ನ",
+        "ReportIssue": "ಸಂಚಿಕೆ",
         "Languages": "ಭಾಷಾ"
     },
     "Footer": {},

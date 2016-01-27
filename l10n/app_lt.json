@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Pagrindinis",
         "Feature": "Įranga",
-        "Documents": "Prisijungę Dokumentacija",
+        "Documents": "Failo",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Nemokama bandomoji versija",
         "Buy": "Pirkimo",
-        "Roadmap": "Maršrutas",
-        "ReportIssue": "Pranešti apie problemą",
+        "Roadmap": "Produktų linija",
+        "ReportIssue": "Numeris",
         "Languages": "Kalba"
     },
     "Footer": {},

@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Үй",
         "Feature": "Ерекшеліктері",
-        "Documents": "Онлайн құжаттама",
+        "Documents": "Файл",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Тегін Trial",
         "Buy": "Сатып алу",
-        "Roadmap": "Бағыт",
-        "ReportIssue": "Мәселе туралы хабарлау",
+        "Roadmap": "Өнім желісі",
+        "ReportIssue": "Мәселе",
         "Languages": "Тіл"
     },
     "Footer": {},

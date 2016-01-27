@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Thuis",
         "Feature": "Functies",
-        "Documents": "Online documentatie",
+        "Documents": "Bestand",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free Trial",
         "Buy": "Aankoop",
-        "Roadmap": "Route",
-        "ReportIssue": "Rapporteer een probleem",
+        "Roadmap": "Productlijn",
+        "ReportIssue": "Uitgifte",
         "Languages": "Taal"
     },
     "Footer": {},

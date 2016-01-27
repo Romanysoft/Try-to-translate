@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "घर",
         "Feature": "विशेषताहरु",
-        "Documents": "अनलाइन दस्तावेजीकरण",
+        "Documents": "फाइल",
         "ReleaseNotes": "रिलीज नोट्स",
         "Downloads": "फ्री परीक्षण",
         "Buy": "खरीद",
-        "Roadmap": "मार्ग",
-        "ReportIssue": "समस्या रिपोर्ट",
+        "Roadmap": "उत्पादन लाइन",
+        "ReportIssue": "मुद्दा",
         "Languages": "भाषा"
     },
     "Footer": {},

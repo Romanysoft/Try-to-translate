@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "မူလစာမျက်နှာ",
         "Feature": "အင်္ဂါရပ်များ",
-        "Documents": "အွန်လိုင်းမှတ်တမ်း",
+        "Documents": "file ကို",
         "ReleaseNotes": "သတင်းထုတ်ပြန်ချက်မှတ်စုများ",
         "Downloads": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
         "Buy": "ဝယ်ယူ",
-        "Roadmap": "route",
-        "ReportIssue": "ပြဿနာတစ်ခုတိုင်ကြားရန်",
+        "Roadmap": "ကုန်ထုတ်ရေးလိုင်း",
+        "ReportIssue": "ပြဿနာက",
         "Languages": "ဘာသာစကား"
     },
     "Footer": {},

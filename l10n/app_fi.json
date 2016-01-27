@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Koti",
         "Feature": "Piirteet",
-        "Documents": "Online Documentation",
+        "Documents": "Tiedosto",
         "ReleaseNotes": "Julkaisutiedot",
         "Downloads": "Free Trial",
         "Buy": "Osto",
-        "Roadmap": "Reitti",
-        "ReportIssue": "Ilmoita ongelmasta",
+        "Roadmap": "Tuotesarja",
+        "ReportIssue": "Kysymys",
         "Languages": "Kieli"
     },
     "Footer": {},

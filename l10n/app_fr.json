@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Maison",
         "Feature": "Caractéristiques",
-        "Documents": "Documentation en ligne",
+        "Documents": "Fichier",
         "ReleaseNotes": "Notes de version",
         "Downloads": "Essai gratuit",
         "Buy": "Achat",
-        "Roadmap": "Itinéraire",
-        "ReportIssue": "Signaler un problème",
+        "Roadmap": "Gamme de produits",
+        "ReportIssue": "Question",
         "Languages": "Langue"
     },
     "Footer": {},

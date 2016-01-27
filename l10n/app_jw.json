@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Ngarep",
         "Feature": "Fitur",
-        "Documents": "Dokumentasi Online",
+        "Documents": "Gambar",
         "ReleaseNotes": "Release Cathetan",
         "Downloads": "Nyoba free",
         "Buy": "Tuku",
-        "Roadmap": "Auto",
-        "ReportIssue": "Laporan masalah",
+        "Roadmap": "Baris Product",
+        "ReportIssue": "Jeksa Agung bisa ngetokake",
         "Languages": "Language"
     },
     "Footer": {},

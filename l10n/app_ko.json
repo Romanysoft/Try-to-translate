@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "홈",
         "Feature": "특징",
-        "Documents": "온라인 문서",
+        "Documents": "파일",
         "ReleaseNotes": "릴리스 노트",
         "Downloads": "무료 평가판",
         "Buy": "매수",
-        "Roadmap": "노선",
-        "ReportIssue": "문제 신고",
+        "Roadmap": "제품 라인",
+        "ReportIssue": "문제",
         "Languages": "언어"
     },
     "Footer": {},

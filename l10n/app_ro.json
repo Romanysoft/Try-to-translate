@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Acasă",
         "Feature": "Caracteristici",
-        "Documents": "Documentație online",
+        "Documents": "Fișier",
         "ReleaseNotes": "Note de lansare",
         "Downloads": "Free Trial",
         "Buy": "Cumpărare",
-        "Roadmap": "Traseu",
-        "ReportIssue": "Raportați o problemă",
+        "Roadmap": "Linia de produse",
+        "ReportIssue": "Emisiune",
         "Languages": "Limbă"
     },
     "Footer": {},

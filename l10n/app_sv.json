@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Hem",
         "Feature": "Egenskaper",
-        "Documents": "Onlinedokumentation",
+        "Documents": "Fil",
         "ReleaseNotes": "Utgåvan",
         "Downloads": "Free Trial",
         "Buy": "Inköp",
-        "Roadmap": "Rutt",
-        "ReportIssue": "Rapportera ett problem",
+        "Roadmap": "Produktlinje",
+        "ReportIssue": "Issue",
         "Languages": "Språk"
     },
     "Footer": {},

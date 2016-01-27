@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Online Documentation",
+        "Documents": "File",
         "ReleaseNotes": "Release Mubo nga mga sulat",
         "Downloads": "Free Trial",
         "Buy": "Pagpalit",
-        "Roadmap": "Route",
-        "ReportIssue": "Isumbong sa usa ka problema",
+        "Roadmap": "Product linya",
+        "ReportIssue": "Isyu",
         "Languages": "Pinulongan"
     },
     "Footer": {},

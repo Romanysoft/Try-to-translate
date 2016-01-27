@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Nyumbani",
         "Feature": "Makala",
-        "Documents": "Online Nyaraka",
+        "Documents": "Faili",
         "ReleaseNotes": "Maelezo ya kutolewa",
         "Downloads": "Bure kesi",
         "Buy": "Ununuzi",
-        "Roadmap": "Njia",
-        "ReportIssue": "Ripoti tatizo",
+        "Roadmap": "Mstari wa bidhaa",
+        "ReportIssue": "Suala",
         "Languages": "Lugha"
     },
     "Footer": {},

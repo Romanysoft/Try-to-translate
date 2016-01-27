@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Főoldal",
         "Feature": "Jellemzők",
-        "Documents": "Online dokumentáció",
+        "Documents": "Fájl",
         "ReleaseNotes": "Kiadási megjegyzések",
         "Downloads": "Ingyenesen kipróbálható",
         "Buy": "Vásárlási",
-        "Roadmap": "Útvonal",
-        "ReportIssue": "Probléma jelentése",
+        "Roadmap": "Termékcsalád",
+        "ReportIssue": "Füzet",
         "Languages": "Nyelv"
     },
     "Footer": {},

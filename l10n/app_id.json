@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Rumah",
         "Feature": "Fitur",
-        "Documents": "Dokumentasi online",
+        "Documents": "Berkas",
         "ReleaseNotes": "Catatan Rilis",
         "Downloads": "Free Trial",
         "Buy": "Pembelian",
-        "Roadmap": "Rute",
-        "ReportIssue": "Melaporkan masalah",
+        "Roadmap": "Lini produk",
+        "ReportIssue": "Isu",
         "Languages": "Bahasa"
     },
     "Footer": {},

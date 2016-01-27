@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Хона",
         "Feature": "Хусусиятҳои",
-        "Documents": "Ьужжатьои онлайн",
+        "Documents": "Файл",
         "ReleaseNotes": "Қайдҳои",
         "Downloads": "Мурофиаи озод",
         "Buy": "Харид",
-        "Roadmap": "Маршрут",
-        "ReportIssue": "Гузориш масъалаи",
+        "Roadmap": "Хати маҳсулот",
+        "ReportIssue": "Масъала",
         "Languages": "Забон"
     },
     "Footer": {},

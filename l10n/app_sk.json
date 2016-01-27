@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Domov",
         "Feature": "Funkcie",
-        "Documents": "Online dokumentácia",
+        "Documents": "Súbor",
         "ReleaseNotes": "Poznámky k vydaniu",
         "Downloads": "Skúšobná verzia zdarma",
         "Buy": "Nákup",
-        "Roadmap": "Trasa",
-        "ReportIssue": "Nahlásiť problém",
+        "Roadmap": "Produktový rad",
+        "ReportIssue": "Otázka",
         "Languages": "Jazyk"
     },
     "Footer": {},

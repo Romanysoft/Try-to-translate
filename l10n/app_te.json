@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "హోం",
         "Feature": "ఫీచర్స్",
-        "Documents": "ఆన్లైన్ డాక్యుమెంటేషన్",
+        "Documents": "ఫైలు",
         "ReleaseNotes": "విడుదల గమనికలు",
         "Downloads": "ఉచిత ట్రయల్",
         "Buy": "కొనుగోలు",
-        "Roadmap": "రూట్",
-        "ReportIssue": "ఒక సమస్య గురించి నివేదించండి",
+        "Roadmap": "ఉత్పత్తి లైన్",
+        "ReportIssue": "ఇష్యూ",
         "Languages": "భాషా"
     },
     "Footer": {},

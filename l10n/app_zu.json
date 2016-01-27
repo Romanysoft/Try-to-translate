@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Izici",
-        "Documents": "Online Imibhalo",
+        "Documents": "Ifayela",
         "ReleaseNotes": "Release Amanothi",
         "Downloads": "Trial Free",
         "Buy": "Ukuthengwa",
-        "Roadmap": "Route",
-        "ReportIssue": "Bika inkinga",
+        "Roadmap": "Line Product",
+        "ReportIssue": "Issue",
         "Languages": "Ulimi"
     },
     "Footer": {},

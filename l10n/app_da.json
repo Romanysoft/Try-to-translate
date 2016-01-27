@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Hjem",
         "Feature": "Egenskaber",
-        "Documents": "Online Dokumentation",
+        "Documents": "Fil",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Gratis prøveversion",
         "Buy": "Købe",
-        "Roadmap": "Rute",
-        "ReportIssue": "Rapporter et problem",
+        "Roadmap": "Produktlinje",
+        "ReportIssue": "Issue",
         "Languages": "Sprog"
     },
     "Footer": {},

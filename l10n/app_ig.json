@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Atụmatụ",
-        "Documents": "Online Documentation",
+        "Documents": "File",
         "ReleaseNotes": "Hapụ ndị edeturu",
         "Downloads": "Free Trial",
         "Buy": "Ịzụ",
-        "Roadmap": "Nsoro",
-        "ReportIssue": "Kọọrọnụ a nsogbu",
+        "Roadmap": "Product akara",
+        "ReportIssue": "Esemokwu",
         "Languages": "Asụsụ"
     },
     "Footer": {},

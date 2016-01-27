@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Shtëpi",
         "Feature": "Karakteristika",
-        "Documents": "Dokumentacioni në internet",
+        "Documents": "Skedar",
         "ReleaseNotes": "Shënime Versioni",
         "Downloads": "Free Trial",
         "Buy": "Blerje",
-        "Roadmap": "Rrugë",
-        "ReportIssue": "Raporto një problem",
+        "Roadmap": "Programi i prodhimit",
+        "ReportIssue": "Çështje",
         "Languages": "Gjuhë"
     },
     "Footer": {},

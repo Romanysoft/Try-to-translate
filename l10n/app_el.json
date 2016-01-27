@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Αρχική",
         "Feature": "Χαρακτηριστικά",
-        "Documents": "Online Τεκμηρίωση",
+        "Documents": "Αρχείο",
         "ReleaseNotes": "Σημειώσεις έκδοσης",
         "Downloads": "Δωρεάν δοκιμή",
         "Buy": "Αγορά",
-        "Roadmap": "Διαδρομή",
-        "ReportIssue": "Αναφέρετε ένα πρόβλημα",
+        "Roadmap": "Η γραμμή παραγωγής",
+        "ReportIssue": "Ζήτημα",
         "Languages": "Γλώσσα"
     },
     "Footer": {},

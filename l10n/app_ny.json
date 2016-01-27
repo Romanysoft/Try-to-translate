@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Mbali",
-        "Documents": "Online Kulemba",
+        "Documents": "Wapamwamba",
         "ReleaseNotes": "Kumasulidwa Mfundo",
         "Downloads": "Free Mlandu",
         "Buy": "Purchase",
-        "Roadmap": "Route",
-        "ReportIssue": "Nenani vuto",
+        "Roadmap": "Mankhwala mzere",
+        "ReportIssue": "Nkhani",
         "Languages": "Language"
     },
     "Footer": {},

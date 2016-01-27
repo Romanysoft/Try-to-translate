@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Laman",
         "Feature": "Ciri-ciri",
-        "Documents": "Dokumentasi Dalam Talian",
+        "Documents": "Fail",
         "ReleaseNotes": "Nota Keluaran",
         "Downloads": "Percubaan Percuma",
         "Buy": "Pembelian",
-        "Roadmap": "Laluan",
-        "ReportIssue": "Laporkan masalah",
+        "Roadmap": "Barisan produk",
+        "ReportIssue": "Isu",
         "Languages": "Bahasa"
     },
     "Footer": {},

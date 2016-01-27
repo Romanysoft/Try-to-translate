@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Додому",
         "Feature": "Риси",
-        "Documents": "Інтернет Документація",
+        "Documents": "Файл",
         "ReleaseNotes": "Примітки до випуску",
         "Downloads": "Безкоштовна пробна версія",
         "Buy": "Купівля",
-        "Roadmap": "Маршрут",
-        "ReportIssue": "Повідомити про проблему",
+        "Roadmap": "Лінія продуктів",
+        "ReportIssue": "Питання",
         "Languages": "Мова"
     },
     "Footer": {},

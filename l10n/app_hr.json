@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Početna",
         "Feature": "Značajke",
-        "Documents": "Online dokumentacija",
+        "Documents": "File",
         "ReleaseNotes": "Napomene o izdanju",
         "Downloads": "Free Trial",
         "Buy": "Kupnja",
-        "Roadmap": "Ruta",
-        "ReportIssue": "Prijavi problem",
+        "Roadmap": "Linija proizvoda",
+        "ReportIssue": "Pitanje",
         "Languages": "Govor"
     },
     "Footer": {},

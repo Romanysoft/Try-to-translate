@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Кући",
         "Feature": "Карактеристике",
-        "Documents": "У продаји Документација",
+        "Documents": "Фајл",
         "ReleaseNotes": "Белешке о издању",
         "Downloads": "Пробна верзија",
         "Buy": "Куповина",
-        "Roadmap": "Рута",
-        "ReportIssue": "Пријавите проблем",
+        "Roadmap": "Производна линија",
+        "ReportIssue": "Издање",
         "Languages": "Језик"
     },
     "Footer": {},

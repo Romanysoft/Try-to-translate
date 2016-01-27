@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "मुख्यपृष्ठ",
         "Feature": "वैशिष्ट्ये",
-        "Documents": "ऑनलाइन दस्तऐवज",
+        "Documents": "फाइल",
         "ReleaseNotes": "प्रकाशन टिपा",
         "Downloads": "विनामूल्य चाचणी",
         "Buy": "खरेदी",
-        "Roadmap": "मार्ग",
-        "ReportIssue": "समस्या नोंदवा",
+        "Roadmap": "उत्पादन ओळ",
+        "ReportIssue": "अंक",
         "Languages": "भाषा"
     },
     "Footer": {},

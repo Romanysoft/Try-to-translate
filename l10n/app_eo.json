@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Hejmo",
         "Feature": "Karakterizaĵoj",
-        "Documents": "Enreta Dokumentoj",
+        "Documents": "Dosiero",
         "ReleaseNotes": "Release Notoj",
         "Downloads": "Free Trial",
         "Buy": "Aĉeto",
-        "Roadmap": "Itinero",
-        "ReportIssue": "Raportu problemo",
+        "Roadmap": "Produkto linio",
+        "ReportIssue": "Temo",
         "Languages": "Lingvo"
     },
     "Footer": {},

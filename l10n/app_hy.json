@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Տուն",
         "Feature": "Նկարագրություն",
-        "Documents": "Online Documentation",
+        "Documents": "Ֆայլ",
         "ReleaseNotes": "ՕՆԼԱՅՆ Notes",
         "Downloads": "Free Trial",
         "Buy": "Գնում",
-        "Roadmap": "Ուղի",
-        "ReportIssue": "Հաղորդել խնդիր",
+        "Roadmap": "Ապրանք գիծը",
+        "ReportIssue": "Թողարկում",
         "Languages": "Լեզու"
     },
     "Footer": {},

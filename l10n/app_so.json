@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Warqadaha Online",
+        "Documents": "File",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Trial Free",
         "Buy": "Iibso",
-        "Roadmap": "Route",
-        "ReportIssue": "Soo sheeg dhibaato",
+        "Roadmap": "Line Product",
+        "ReportIssue": "Issue",
         "Languages": "Language"
     },
     "Footer": {},

@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Endri-javatra",
-        "Documents": "Online Documentation",
+        "Documents": "Rakitra",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free Fitsarana",
         "Buy": "Purchase",
-        "Roadmap": "Route",
-        "ReportIssue": "Report ny olana",
+        "Roadmap": "Product tsipika",
+        "ReportIssue": "Laharana",
         "Languages": "Language"
     },
     "Footer": {},

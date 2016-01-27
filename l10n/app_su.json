@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Imah",
         "Feature": "Fitur",
-        "Documents": "Dokumén Online",
+        "Documents": "File",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Sidang Free",
         "Buy": "Meuli",
-        "Roadmap": "Rute",
-        "ReportIssue": "Wartoskeun masalah",
+        "Roadmap": "Lini produk",
+        "ReportIssue": "Masalah",
         "Languages": "Basa"
     },
     "Footer": {},

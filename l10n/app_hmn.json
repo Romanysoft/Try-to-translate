@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Tsev",
         "Feature": "Nta",
-        "Documents": "Online cov ntaub ntawv",
+        "Documents": "Cov ntaub ntawv",
         "ReleaseNotes": "Sau ntawv tso lus",
         "Downloads": "Dawb Mus sib hais",
         "Buy": "Purchase",
-        "Roadmap": "Lawv",
-        "ReportIssue": "Qhia txog ib qho teeb meem",
+        "Roadmap": "Khoom kab",
+        "ReportIssue": "Qhov teeb meem",
         "Languages": "Lus"
     },
     "Footer": {},

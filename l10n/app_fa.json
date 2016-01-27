@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "صفحه اصلی",
         "Feature": "ویژگی های",
-        "Documents": "مستندات آنلاین",
+        "Documents": "فایل",
         "ReleaseNotes": "یادداشتهای انتشار",
         "Downloads": "آزمایش رایگان",
         "Buy": "خرید",
-        "Roadmap": "مسیر",
-        "ReportIssue": "گزارش یک مشکل",
+        "Roadmap": "خط تولید",
+        "ReportIssue": "موضوع",
         "Languages": "زبان"
     },
     "Footer": {},

@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Fasali",
-        "Documents": "Online takardun",
+        "Documents": "Fayil",
         "ReleaseNotes": "Bayanan kula saki",
         "Downloads": "Free gwajin",
         "Buy": "Purchase",
-        "Roadmap": "Hanya",
-        "ReportIssue": "Bayar da rahoton matsala",
+        "Roadmap": "Samfur line",
+        "ReportIssue": "Batun",
         "Languages": "Harshe"
     },
     "Footer": {},

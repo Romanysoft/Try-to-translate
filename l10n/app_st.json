@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Online ditokomane tse",
+        "Documents": "File",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free Trial",
         "Buy": "Reka",
-        "Roadmap": "Route",
-        "ReportIssue": "Tlaleha bothata",
+        "Roadmap": "Product mola",
+        "ReportIssue": "Issue",
         "Languages": "Puo"
     },
     "Footer": {},

@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Kodus",
         "Feature": "Omadused",
-        "Documents": "Hetkel Dokumentatsiooni",
+        "Documents": "Faili",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Tasuta prooviversioon",
         "Buy": "Ostu",
-        "Roadmap": "Marsruut",
-        "ReportIssue": "Teata probleemist",
+        "Roadmap": "Tootevalik",
+        "ReportIssue": "Teema",
         "Languages": "Keel"
     },
     "Footer": {},

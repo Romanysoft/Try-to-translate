@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Нүүр хуудас",
         "Feature": "Онцлог",
-        "Documents": "Онлайн баримт бичиг",
+        "Documents": "Файлын",
         "ReleaseNotes": "Хувилбарын тэмдэглэл",
         "Downloads": "Чөлөөт Шүүхийн",
         "Buy": "Худалдан авах",
-        "Roadmap": "Маршрут",
-        "ReportIssue": "Асуудлыг тайлагнах",
+        "Roadmap": "Бүтээгдэхүүний шугам",
+        "ReportIssue": "Асуудал",
         "Languages": "Хэл"
     },
     "Footer": {},

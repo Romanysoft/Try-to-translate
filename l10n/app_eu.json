@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Hasiera",
         "Feature": "Ezaugarriak",
-        "Documents": "Online Documentation",
+        "Documents": "Fitxategia",
         "ReleaseNotes": "Bertsio-oharrak",
         "Downloads": "Free Trial",
         "Buy": "Erosteko",
-        "Roadmap": "Ibilbidea",
-        "ReportIssue": "Arazo baten berri",
+        "Roadmap": "Produktu linea",
+        "ReportIssue": "Alea",
         "Languages": "Hizkuntza"
     },
     "Footer": {},

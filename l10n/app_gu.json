@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "મુખ્ય પૃષ્ઠ",
         "Feature": "લક્ષણો",
-        "Documents": "ઓનલાઇન દસ્તાવેજીકરણ",
+        "Documents": "ફાઇલ",
         "ReleaseNotes": "પ્રકાશન નોંધો",
         "Downloads": "મફત ટ્રાયલ",
         "Buy": "ખરીદી",
-        "Roadmap": "રૂટ",
-        "ReportIssue": "સમસ્યાની જાણ કરો",
+        "Roadmap": "ઉત્પાદન રેખા",
+        "ReportIssue": "ઇશ્યૂ",
         "Languages": "ભાષા"
     },
     "Footer": {},

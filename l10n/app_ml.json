@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "ഹോം",
         "Feature": "സവിശേഷതകൾ",
-        "Documents": "ഓൺലൈൻ ഡോക്യുമെന്റേഷൻ",
+        "Documents": "പ്രമാണം",
         "ReleaseNotes": "പ്രകാശനക്കുറിപ്പുകൾ",
         "Downloads": "സൗജന്യ ട്രയൽ",
         "Buy": "വാങ്ങൽ",
-        "Roadmap": "റൂട്ട്",
-        "ReportIssue": "ഒരു പ്രശ്നം റിപ്പോർട്ട്",
+        "Roadmap": "ഉൽപ്പന്ന ലൈൻ",
+        "ReportIssue": "പ്രശ്നം",
         "Languages": "ഭാഷ"
     },
     "Footer": {},

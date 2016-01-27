@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "বাড়ি",
         "Feature": "বৈশিষ্ট্য",
-        "Documents": "অনলাইন ডকুমেন্টেশন",
+        "Documents": "ফাইল",
         "ReleaseNotes": "রিলিজ নোট",
         "Downloads": "ফ্রি ট্রায়াল",
         "Buy": "ক্রয়",
-        "Roadmap": "রুট",
-        "ReportIssue": "একটি সমস্যার প্রতিবেদন লিখুন",
+        "Roadmap": "প্রোডাক্ট লাইন",
+        "ReportIssue": "ইস্যু",
         "Languages": "ভাষা"
     },
     "Footer": {},

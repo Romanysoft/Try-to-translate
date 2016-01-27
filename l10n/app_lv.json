@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Uz mājām",
         "Feature": "Features",
-        "Documents": "Online dokumentācija",
+        "Documents": "Fails",
         "ReleaseNotes": "Laidienu",
         "Downloads": "Free Trial",
         "Buy": "Pirkuma",
-        "Roadmap": "Maršruts",
-        "ReportIssue": "Ziņot par kļūdu",
+        "Roadmap": "Produktu līnija",
+        "ReportIssue": "Issue",
         "Languages": "Valoda"
     },
     "Footer": {},

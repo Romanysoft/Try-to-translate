@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "主页",
         "Feature": "功能特性",
-        "Documents": "联机文档",
+        "Documents": "文档",
         "ReleaseNotes": "发行说明",
         "Downloads": "免费试用",
         "Buy": "购买",
-        "Roadmap": "路线",
-        "ReportIssue": "报告问题",
+        "Roadmap": "产品路线",
+        "ReportIssue": "问题",
         "Languages": "语言"
     },
     "Footer": {},

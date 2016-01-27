@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "მთავარი",
         "Feature": "მახასიათებლები",
-        "Documents": "ონლაინ დოკუმენტაცია",
+        "Documents": "ფაილის",
         "ReleaseNotes": "გამოშვების შენიშვნები",
         "Downloads": "უფასო Trial",
         "Buy": "ნასყიდობის",
-        "Roadmap": "მარშრუტი",
-        "ReportIssue": "პრობლემის",
+        "Roadmap": "პროდუქციის ხაზი",
+        "ReportIssue": "Issue",
         "Languages": "ენა"
     },
     "Footer": {},

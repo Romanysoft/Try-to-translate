@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Baile",
         "Feature": "Gnéithe",
-        "Documents": "Doiciméadú Ar Líne",
+        "Documents": "Comhad",
         "ReleaseNotes": "Nótaí Eisiúna",
         "Downloads": "Triail Saor in Aisce",
         "Buy": "Ceannach",
-        "Roadmap": "Bealach",
-        "ReportIssue": "Tuairiscigh fadhb",
+        "Roadmap": "Táirge líne",
+        "ReportIssue": "Eisiúint",
         "Languages": "Teanga"
     },
     "Footer": {},

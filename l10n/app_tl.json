@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Mga Tampok",
-        "Documents": "Online Documentation",
+        "Documents": "File",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Libreng Pagsubok",
         "Buy": "Purchase",
-        "Roadmap": "Route",
-        "ReportIssue": "Mag-ulat ng problema",
+        "Roadmap": "Linya ng produkto",
+        "ReportIssue": "Issue",
         "Languages": "Wika"
     },
     "Footer": {},

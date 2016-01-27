@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Do domu",
         "Feature": "Funkcje",
-        "Documents": "Dokumentacja online",
+        "Documents": "Plik",
         "ReleaseNotes": "Informacje o wydaniu",
         "Downloads": "Bezpłatna wersja próbna",
         "Buy": "Zakup",
-        "Roadmap": "Trasa",
-        "ReportIssue": "Zgłoś problem",
+        "Roadmap": "Linia produktów",
+        "ReportIssue": "Kwestia",
         "Languages": "Język"
     },
     "Footer": {},

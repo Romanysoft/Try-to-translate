@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Ev",
         "Feature": "Features",
-        "Documents": "Online Documentation",
+        "Documents": "Fayl",
         "ReleaseNotes": "Release Qeydlər",
         "Downloads": "Free Trial",
         "Buy": "Alış",
-        "Roadmap": "Marşrut",
-        "ReportIssue": "Bir sorunu bildirmek",
+        "Roadmap": "Product line",
+        "ReportIssue": "Buraxılış",
         "Languages": "Dil"
     },
     "Footer": {},

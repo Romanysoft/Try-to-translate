@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Uy",
         "Feature": "Xususiyatlar",
-        "Documents": "Online Hujjatlar",
+        "Documents": "Fayl",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Bepul Sinov",
         "Buy": "Sotib olish to'g'risida",
-        "Roadmap": "Yo'l",
-        "ReportIssue": "Bir muammo haqida xabar berish",
+        "Roadmap": "Mahsulot chiziq",
+        "ReportIssue": "Masala",
         "Languages": "Til"
     },
     "Footer": {},

@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Awọn ẹya ara ẹrọ",
-        "Documents": "Online Documentation",
+        "Documents": "Faili",
         "ReleaseNotes": "Tu Notes",
         "Downloads": "Free Iwadii",
         "Buy": "Ra",
-        "Roadmap": "Route",
-        "ReportIssue": "Jabo a isoro",
+        "Roadmap": "Ọja ila",
+        "ReportIssue": "Oro",
         "Languages": "Language"
     },
     "Footer": {},

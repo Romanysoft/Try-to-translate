@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "منزل",
         "Feature": "ملامح",
-        "Documents": "الوثائق عبر الإنترنت",
+        "Documents": "ملف",
         "ReleaseNotes": "ملاحظات الإصدار",
         "Downloads": "التجربة المجانية",
         "Buy": "شراء",
-        "Roadmap": "مسار",
-        "ReportIssue": "الإبلاغ عن مشكلة",
+        "Roadmap": "خط الانتاج",
+        "ReportIssue": "قضية",
         "Languages": "لغة"
     },
     "Footer": {},

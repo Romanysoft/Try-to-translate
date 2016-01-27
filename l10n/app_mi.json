@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Kāinga",
         "Feature": "Āhuatanga",
-        "Documents": "Tuhinga Online",
+        "Documents": "Kōnae",
         "ReleaseNotes": "Tuku Notes",
         "Downloads": "Whakamātau Free",
         "Buy": "Hoko",
-        "Roadmap": "Ararere",
-        "ReportIssue": "Pūrongo i te raruraru",
+        "Roadmap": "Raina Hua",
+        "ReportIssue": "Putanga",
         "Languages": "Reo"
     },
     "Footer": {},

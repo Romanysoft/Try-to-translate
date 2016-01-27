@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Nhà",
         "Feature": "Tính năng",
-        "Documents": "Tài liệu trực tuyến",
+        "Documents": "Hồ sơ",
         "ReleaseNotes": "Ghi chú Phát hành",
         "Downloads": "Dùng thử miễn phí",
         "Buy": "Mua",
-        "Roadmap": "Tuyến đường",
-        "ReportIssue": "Báo cáo sự cố",
+        "Roadmap": "Dòng sản phẩm",
+        "ReportIssue": "Vấn đề",
         "Languages": "Ngôn ngữ"
     },
     "Footer": {},

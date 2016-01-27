@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Cartref",
         "Feature": "Nodweddion",
-        "Documents": "Dogfennaeth Ar-lein",
+        "Documents": "Ffeil",
         "ReleaseNotes": "Nodiadau Rhyddhau",
         "Downloads": "Treial am ddim",
         "Buy": "Prynu",
-        "Roadmap": "Llwybr",
-        "ReportIssue": "Rhoi gwybod am broblem",
+        "Roadmap": "Llinell Cynnyrch",
+        "ReportIssue": "Rhifyn",
         "Languages": "Iaith"
     },
     "Footer": {},

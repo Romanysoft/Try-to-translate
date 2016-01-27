@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Kay",
         "Feature": "Karakteristik",
-        "Documents": "Online Dokimantasyon",
+        "Documents": "File",
         "ReleaseNotes": "Release Nòt",
         "Downloads": "Gratis Jijman",
         "Buy": "Achte",
-        "Roadmap": "Route",
-        "ReportIssue": "Rapòte yon pwoblèm",
+        "Roadmap": "Liy pwodwi",
+        "ReportIssue": "Nimewo",
         "Languages": "Lang"
     },
     "Footer": {},

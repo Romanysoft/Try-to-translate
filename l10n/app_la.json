@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "Domi",
         "Feature": "Features",
-        "Documents": "Online Documentation",
+        "Documents": "File",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free",
         "Buy": "Purchase",
-        "Roadmap": "Itinere",
-        "ReportIssue": "Report a forsit",
+        "Roadmap": "Product line",
+        "ReportIssue": "Issue",
         "Languages": "Lingua"
     },
     "Footer": {},

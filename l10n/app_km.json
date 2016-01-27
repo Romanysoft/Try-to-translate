@@ -2,12 +2,12 @@
     "TopBar": {
         "Home": "ទំព័រ​ដើម",
         "Feature": "លក្ខណៈ​ពិសេស",
-        "Documents": "ឯកសារ​លើ​ប​ណ្តា​ញ",
+        "Documents": "ឯកសារ",
         "ReleaseNotes": "កំណត់ចំណាំ​ការ​ចេញផ្សាយ",
         "Downloads": "ការ​ជំនុំ​ជម្រះ​ដោយ​ឥត​គិត​ថ្លៃ",
         "Buy": "ការ​ទិញ",
-        "Roadmap": "ផ្លូវ",
-        "ReportIssue": "រាយការណ៍​បញ្ហា",
+        "Roadmap": "បន្ទាត់​ផលិតផល",
+        "ReportIssue": "បញ្ហា​ការ",
         "Languages": "ភាសា"
     },
     "Footer": {},
