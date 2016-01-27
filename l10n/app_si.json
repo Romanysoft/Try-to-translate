@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "මුල් පිටුව",
+        "Feature": "විශේෂාංග",
+        "Documents": "ගොනුව",
+        "ReleaseNotes": "මුදා හැරීමේ සටහන්",
+        "Downloads": "නිදහස් ට්රයල්",
+        "Buy": "මිලදී ගැනීම",
+        "Roadmap": "මාර්ග සිතියම",
+        "ReportIssue": "ගැටලුවක් වාර්තා",
+        "Languages": "භාෂා"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "ඉක්මන් පරිවර්තන මෙවලමකි. වින්ඩෝස්, ලිනක්ස්, MacOSX මෙහෙයුම් පද්ධතිය සඳහා සහාය.",
+        "BtnDownload": "නිදහස් ට්රයල්",
+        "BtnBuy": "මිලදී ගැනීම",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "ප්රධාන ලක්ෂණ",
+            "list": [
+                "ස්වයංක්රීයව ආදාන මූලාශ්රය භාෂාව හඳුනා",
+                "වේග සමගාමී පරිවර්තන හැකියාවන්",
+                "ජාතික භාෂා 80 කට වඩා වැඩි ආකාරයේ සහාය",
+                "බහු භාෂා එක් භාෂාවක් පරිවර්තනය සහයෝගය දක්වන අතර",
+                "Built-බහු භාෂා අතුරු මුහුණත"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "හැම දෙනාටම ඇගයීම දෙස බලන්න",
+            "list": [
+                {
+                    "reviewContent": "ඉස්තරම් වේ පරිවර්තනය කිරීමට උත්සාහ කරන්න. සරල. පිරිසිදු. පරිපූර්ණ. හොඳයි.",
+                    "userName": "evanw",
+                    "professional": "තාක්ෂණ ධර්මදූත"
+                },
+                {
+                    "reviewContent": "පරිවර්තනය කිරීමට උත්සාහ කරන්න මම එච්චරමයි මගේ සියලු ලියන දී කරන්නේ. එය මහත් ටිකක් යෙදුම වේ.",
+                    "userName": "පීටර් දීප්තිමත්",
+                    "professional": "ARS ටෙක්නිකා දී රයිටර්"
+                },
+                {
+                    "reviewContent": "ඔබ සකසුරුවම් කිසිදු උනන්දුවක් තිබේ නම්, පරිවර්තනය කිරීමට උත්සාහ කරන්න අනිවාර්යයෙන්ම බාගත වටී.",
+                    "userName": "LifeHacker",
+                    "professional": "වෙබ් අඩවි සංවර්ධනකරු හා නිර්මාණකරුවා"
+                },
+                {
+                    "reviewContent": "මම පරිවර්තනය කිරීමට උත්සාහ කරන්න ඇත්තටම කැමති, මගේ වැඩ කටයුතු සඳහා ඊට වඩා පහසු කර තිබේ.",
+                    "userName": "jeruss",
+                    "professional": ", PHP ගොඩනගන්නන්ගේ රාමුව"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "නිකුතු",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "කර්නල් යාවත්කාලීන"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "බග් විසඳුමක් පරිවර්තනය එතුම"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "එකතු කල ගබඩා යාන්ත්රණයක්"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. කර්නලය යාවත්කාලීන"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. පරිවර්තනය යන්ත්ර ප්රශස්තකරණය"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "මෙම MacOS අනුවාදය සමඟ සමමුහුර්තකරණය ප්රථම නිකුතුව,."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "මෙම MacOS අනුවාදය සමඟ සමමුහුර්තකරණය ප්රථම නිකුතුව,."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "නිකුතු",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "කෙසේ මිලට ගැනීම සඳහා",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ලබා ගත හැකි භාෂා",
+        "ChangeAlert": "සම්පූර්ණ බස මාරු"
+    }
+}

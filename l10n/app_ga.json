@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Baile",
+        "Feature": "Gnéithe",
+        "Documents": "Comhad",
+        "ReleaseNotes": "Nótaí Eisiúna",
+        "Downloads": "Triail Saor in Aisce",
+        "Buy": "Ceannach",
+        "Roadmap": "Léarscáil bhóithre",
+        "ReportIssue": "Tuairiscigh fadhb",
+        "Languages": "Teanga"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Uirlis Aistriúchán tapaidh. Tacaíocht do chóras oibriúcháin Windows, Linux, MacOSX.",
+        "BtnDownload": "Triail Saor in Aisce",
+        "BtnBuy": "Ceannach",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Príomhghnéithe",
+            "list": [
+                "Go huathoibríoch ar an teanga foinse ionchur a bhrath",
+                "Cumais aistriúcháin Fast comhuaineach",
+                "Tacú le níos mó ná 80 cineálacha de teanga náisiúnta",
+                "Cé go dtacaíonn an t-aistriúchán na teanga amháin go teangacha éagsúla",
+                "Tógtha-i comhéadan il-teanga"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Chur le breathnú ar gach duine meastóireacht",
+            "list": [
+                {
+                    "reviewContent": "Iarracht a aistriú go bhfuil iontach seo. Simplí. Clean. Perfect. Maith thú.",
+                    "userName": "evanw",
+                    "professional": "Teicneolaíocht Evangelist"
+                },
+                {
+                    "reviewContent": "Iarracht a aistriú go bhfuil cad is féidir liom go leor i bhfad gach ceann de mo scríbhneoireachta i. Tá sé ina app iontach beag.",
+                    "userName": "Peter Bright",
+                    "professional": "Writer ag Ars Technica"
+                },
+                {
+                    "reviewContent": "Má tá aon leas i Markdown tú, Bain triail as a aistriú is cinnte fiú a íoslódáil.",
+                    "userName": "Lifehacker",
+                    "professional": "Forbróir Gréasáin agus Dearthóir"
+                },
+                {
+                    "reviewContent": "Is maith liom i ndáiríre Bain triail as a aistriú, thug áise i bhfad do mo chuid oibre.",
+                    "userName": "jeruss",
+                    "professional": "Creat PHP Developer"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Scaoileadh",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Eithne cothrom le dáta"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug wrap aistriúcháin shocrú"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Meicníocht caching Added"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "Thabhairt cothrom le dáta 1. eithne"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. An optimization inneall aistriúcháin"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "An chéad eisiúint, synchronized leis an leagan MacOS."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "An chéad eisiúint, synchronized leis an leagan MacOS."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Scaoileadh",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Conas a Ceannaigh",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Teangacha ar Fáil",
+        "ChangeAlert": "Lasc Comhlánaigh teanga"
+    }
+}

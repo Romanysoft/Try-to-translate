@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Fasali",
+        "Documents": "Fayil",
+        "ReleaseNotes": "Bayanan kula saki",
+        "Downloads": "Free gwajin",
+        "Buy": "Purchase",
+        "Roadmap": "Road map",
+        "ReportIssue": "Bayar da rahoton matsala",
+        "Languages": "Harshe"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Quick translation kayan aiki. Support for Windows, Linux, MacOSX tsarin aiki.",
+        "BtnDownload": "Free gwajin",
+        "BtnBuy": "Purchase",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Key Features",
+            "list": [
+                "Ta atomatik gane da labari tushen harshe",
+                "Fast lokaci daya translation damar",
+                "Goyi bayan fiye da 80 iri na kasa da harshen",
+                "Duk da yake goyon bayan juyin na daya harshen cikin mahara harsuna",
+                "Ginannen Multi-harshen dubawa"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Dubi kowa da kowa kimantawa",
+            "list": [
+                {
+                    "reviewContent": "Ka yi kokarin fassara ne mai ban mamaki. Simple. Clean. Tsarki. Madalla.",
+                    "userName": "evanw",
+                    "professional": "Fasaha Bishara"
+                },
+                {
+                    "reviewContent": "Ka yi kokarin fassara shi ne abin da zan yi kyakkyawa da yawa duk da na rubuce-rubuce a. Yana da wani babban dan app.",
+                    "userName": "Peter Bright",
+                    "professional": "Marubuci a Ars Technica"
+                },
+                {
+                    "reviewContent": "Idan kana da wasu sha'awa cikin Markdown, Ka yi kokarin fassara ne shakka daraja a download.",
+                    "userName": "LifeHacker",
+                    "professional": "Yanar gizo Developer da Designer"
+                },
+                {
+                    "reviewContent": "Na gaske son Ka yi kokarin fassara, ya kawo da yawa saukaka ga aikina.",
+                    "userName": "jeruss",
+                    "professional": "PHP Tsarin Developer"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Saki",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Kwaya ta karshe"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug fix translation kunsa"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Kara da cewa caching inji"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. kwaya ta karshe"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. translation engine ingantawa"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Na farko saki, aiki tare da MacOS version."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Na farko saki, aiki tare da MacOS version."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Saki",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Ta yaya To Buy",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Samuwa Harsuna",
+        "ChangeAlert": "Cikakken canza harshen"
+    }
+}

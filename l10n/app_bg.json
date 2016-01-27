@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "У дома",
+        "Feature": "Удобства",
+        "Documents": "Пила",
+        "ReleaseNotes": "Бележки по изданието",
+        "Downloads": "Free Trial",
+        "Buy": "Покупка",
+        "Roadmap": "Пътна карта",
+        "ReportIssue": "Съобщи за проблем",
+        "Languages": "Език"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Бързо инструмент за превод. Подкрепа за Windows, Linux, MacOSX операционна система.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Покупка",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Основни функции",
+            "list": [
+                "Автоматично откриване на езика като източник на входа",
+                "Бързи възможности симултанен превод",
+                "Помогнете на повече от 80 вида национален език",
+                "Въпреки че подкрепя превода на един език на няколко езика",
+                "Вграден многоезичен интерфейс"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Обърнете внимание на оценката на всички",
+            "list": [
+                {
+                    "reviewContent": "Опитайте се да преведете е зашеметяващ. Simple. Clean. Perfect. Браво.",
+                    "userName": "evanw",
+                    "professional": "Технология евангелист"
+                },
+                {
+                    "reviewContent": "Опитайте се да преведете е това, което правя почти всичко, на писане ми в. Това е чудесен малък ап.",
+                    "userName": "Peter Bright",
+                    "professional": "Сценарист на Ars Technica"
+                },
+                {
+                    "reviewContent": "Ако имате интерес към Markdown, Опитайте се да преведете е определено си струва за сваляне.",
+                    "userName": "Lifehacker",
+                    "professional": "Web Developer и дизайнерски"
+                },
+                {
+                    "reviewContent": "Аз наистина харесвам Опитайте се да преведете, донесе много удобство за работата ми.",
+                    "userName": "jeruss",
+                    "professional": "PHP Developer Рамковата"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Изпускане",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Актуализация Kernel"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug Fix превод обвивка"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Добавен механизъм за кеширане"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. актуализация на ядрото"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. Оптимизирането на превод на двигателя"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Първата версия, синхронизиран с MacOS версия."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Първата версия, синхронизиран с MacOS версия."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Изпускане",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Как да купите",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Налични езици",
+        "ChangeAlert": "Пълна език превключвател"
+    }
+}

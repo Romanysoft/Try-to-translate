@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Ngarep",
+        "Feature": "Fitur",
+        "Documents": "Gambar",
+        "ReleaseNotes": "Release Cathetan",
+        "Downloads": "Nyoba free",
+        "Buy": "Tuku",
+        "Roadmap": "Road map",
+        "ReportIssue": "Laporan masalah",
+        "Languages": "Language"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Alat terjemahan cepet. Dhukungan kanggo sistem operasi Windows, Linux, MacOSX.",
+        "BtnDownload": "Nyoba free",
+        "BtnBuy": "Tuku",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Fitur Key",
+            "list": [
+                "Kanthi otomatis ndeteksi basa sumber input",
+                "Cepet Kapabilitas terjemahan simultaneous",
+                "Ndhukung luwih saka 80 jinis basa nasional",
+                "Nalika Panjenengané terjemahan basa siji menyang basa pirang-pirang basa",
+                "Dibangun ing antarmuka multi-basa"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Njupuk dipikir ing evaluasi wong kang",
+            "list": [
+                {
+                    "reviewContent": "Nyoba kanggo basa punika nggumunke. Japanese. Clean. Perfect. Inggih rampung.",
+                    "userName": "evanw",
+                    "professional": "Teknologi Evangelist"
+                },
+                {
+                    "reviewContent": "Nyoba kanggo basa apa aku cantik akeh kabeh nulis ing. Iku app gedhe sethitik.",
+                    "userName": "Peter padhang",
+                    "professional": "Writer ing Ars Technica"
+                },
+                {
+                    "reviewContent": "Yen sampeyan duwe kapentingan ing Markdown, Coba nerjemahake punika temtunipun worth download a.",
+                    "userName": "LifeHacker",
+                    "professional": "Web Developer lan Designer"
+                },
+                {
+                    "reviewContent": "Aku emg kaya Coba dijarwakake, wis nggawa akeh penak kanggo karya.",
+                    "userName": "jeruss",
+                    "professional": "PHP Framework Developer"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Release",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Kernel nganyari"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug terjemahan fix Lebokake"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Added mekanisme caching"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "Nganyari 1. kernel"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. Optimization engine agensi"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Release kawitan, diselarasake karo versi MacOS."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Release kawitan, diselarasake karo versi MacOS."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Release",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Cara Tuku",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Kasedhiya Basa",
+        "ChangeAlert": "Lengkap ngalih basa"
+    }
+}

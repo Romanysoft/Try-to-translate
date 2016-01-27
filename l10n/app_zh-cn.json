@@ -1,29 +1,27 @@
 {
-    "TopBar":{
-        "Home":"主页",
-        "Feature":"产品特性",
-        "Documents":"文档",
-        "ReleaseNotes":"发布日志",
-        "Downloads":"下载",
-        "Buy":"购买",
-        "Roadmap":"产品路线",
-        "ReportIssue":"提交问题"
+    "TopBar": {
+        "Home": "主页",
+        "Feature": "功能特性",
+        "Documents": "文件",
+        "ReleaseNotes": "发行说明",
+        "Downloads": "免费试用",
+        "Buy": "购买",
+        "Roadmap": "路线图",
+        "ReportIssue": "报告问题",
+        "Languages": "语言"
     },
-    
-    "Footer":{
-        
-    },
-    
-    
-    "HomePage":{
-        "ProjectTagline":"非常实用的工具，帮助你快速翻译。 Windows, Linux, 苹果电脑都可以使用",
-        "BtnDownload":"下载",
-        "BtnBuy":"购买",
-        "Screens":[
-            "images/screens/zh_CN/c1.png",
-            "images/screens/zh_CN/c2.png",
-            "images/screens/zh_CN/c3.png",
-            "images/screens/zh_CN/c4.png"
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "快速翻译工具。支持Windows、Linux、MacOSX操作系统。",
+        "BtnDownload": "免费试用",
+        "BtnBuy": "采购",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
         ],
         
         "Features":{
@@ -74,27 +72,45 @@
     
     "ReleaseNotePage":{
         "labelVersion":"版本 ",
-        "list":[{
-            "version":"3.18.0",
+        "list":[
+            {
+                "version":"{{3.19.0}}",
+                "list":[
+                    {"platform":"{{Windows/MacOSX}}", "content":"内核更新"},
+                    {"platform":"{{Windows/MacOSX}}", "content":"修复翻译自动换行的Bug"},
+                    {"platform":"{{Windows/MacOSX}}", "content":"加入缓存机制"}
+                ]
+            },
+            {
+            "version":"{{3.18.0}}",
             "list":[
-                {"platform":"MacOSX", "content":"1.内核更新"},
-                {"platform":"MacOSX", "content":"2.优化翻译引擎"},
-                {"platform":"Windows", "content":"第一次发布，与MacOS版本同步."},
-                {"platform":"Linux", "content":"第一次发布，与MacOS版本同步."}
+                {"platform":"{{MacOSX}}", "content":"1.内核更新"},
+                {"platform":"{{MacOSX}}", "content":"2.优化翻译引擎"},
+                {"platform":"{{Windows}}", "content":"第一次发布，与MacOS版本同步."},
+                {"platform":"{{Linux}}", "content":"第一次发布，与MacOS版本同步."}
             ]
         }]
     },
     
     "VersionPage":{
         "labelVersion":"版本",
-        "list":[{
-            "version":"3.18.0",
+        "list":[
+            {
+                "version":"{{3.19.0}}",
+                "zipList":[
+                    {"osUrl":"{{images/download/win32.png}}", "name":"{{Trytotranslate-v3.19-win32-x86-setup.exe}}", "size":"{{44.7MB}}", "downURL":"{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"},
+                    {"osUrl":"{{images/download/win32.png}}","name":"{{Trytotranslate-v3.19-win32-x64-setup.exe}}", "size":"{{53.4MB}}", "downURL":"{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"},
+                    {"osUrl":"{{images/download/osx.png}}", "name":"{{TryToTranslate-v3.19.0-darwin-x64.zip}}", "size":"{{4.8MB}}", "downURL":"{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"}
+                ]
+            },
+            {
+            "version":"{{3.18.0}}",
             "zipList":[
-                {"osUrl":"images/download/win32.png", "name":"Trytotranslate-v3.18-win32-x86-setup.exe", "size":"44.7MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"},
-                {"osUrl":"images/download/win32.png","name":"Trytotranslate-v3.18-win32-x64-setup.exe", "size":"53.4MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"},
-                {"osUrl":"images/download/osx.png", "name":"TryToTranslate-v3.18.0-darwin-x64.zip", "size":"4.8MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"},
-                {"osUrl":"images/download/linux.png", "name":"Trytotranslate-v3.18-linux-ia32-install.tar.gz", "size":"38.6MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"},
-                {"osUrl":"images/download/linux.png","name":"Trytotranslate-v3.18-linux-x64-install.tar.gz", "size":"38.6MB", "downURL":"http://pan.baidu.com/s/1hqWb6vi"}
+                {"osUrl":"{{images/download/win32.png}}", "name":"{{Trytotranslate-v3.18-win32-x86-setup.exe}}", "size":"{{44.7MB}}", "downURL":"{{http://pan.baidu.com/s/1hqWb6vi}}"},
+                {"osUrl":"{{images/download/win32.png}}","name":"{{Trytotranslate-v3.18-win32-x64-setup.exe}}", "size":"{{53.4MB}}", "downURL":"{{http://pan.baidu.com/s/1hqWb6vi}}"},
+                {"osUrl":"{{images/download/osx.png}}", "name":"{{TryToTranslate-v3.18.0-darwin-x64.zip}}", "size":"{{4.8MB}}", "downURL":"{{http://pan.baidu.com/s/1hqWb6vi}}"},
+                {"osUrl":"{{images/download/linux.png}}", "name":"{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}", "size":"{{38.6MB}}", "downURL":"{{http://pan.baidu.com/s/1hqWb6vi}}"},
+                {"osUrl":"{{images/download/linux.png}}","name":"{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}", "size":"{{38.6MB}}", "downURL":"{{http://pan.baidu.com/s/1hqWb6vi}}"}
             ]}
         ]
     },
@@ -103,42 +119,40 @@
             "SectionName":"购买方式",
             "list":[
                 {
-                    "name":"Try to translate for Windows,Linux,MacOSX",
-                    "logo":"images/buy/taobao.png",
-                    "price":"60 RMB",
-                    "buyURL":"https://item.taobao.com/item.htm?id=525168235869"
+                    "name":"{{Try to translate for Windows}}",
+                    "logo":"{{images/buy/taobao.png}}",
+                    "price":"{{60 RMB}}",
+                    "buyURL":"{{https://item.taobao.com/item.htm?id=525168235869}}"
                 },
                 {
-                    "name":"Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10",
-                    "logo":"images/buy/buy.png",
-                    "price":"$9.99",
-                    "buyURL":"https://shopper.mycommerce.com/checkout/cart/new/55399-39"
+                    "name":"{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                    "logo":"{{images/buy/buy.png}}",
+                    "price":"{{$9.99}}",
+                    "buyURL":"{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
                 },
                 {
-                    "name":"Try to translate for MacOSX, for MacOSX 10.7 and later",
-                    "logo":"images/buy/buy.png",
-                    "price":"$9.99",
-                    "buyURL":"https://shopper.mycommerce.com/checkout/cart/new/55399-34"
+                    "name":"{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                    "logo":"{{images/buy/buy.png}}",
+                    "price":"{{$9.99}}",
+                    "buyURL":"{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
                 },
                 {
-                     "name":"Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later",
-                    "logo":"images/buy/mas.png",
-                    "price":"$9.99",
-                    "buyURL":"https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12"
+                     "name":"{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                    "logo":"{{images/buy/mas.png}}",
+                    "price":"{{$9.99}}",
+                    "buyURL":"{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
                 },
                 {
-                    "name":"Try to translate for linux",
-                    "logo":"images/buy/buy.png",
-                    "price":"$9.99",
-                    "buyURL":"https://shopper.mycommerce.com/checkout/cart/new/55399-40"
+                    "name":"{{Try to translate for linux}}",
+                    "logo":"{{images/buy/buy.png}}",
+                    "price":"{{$9.99}}",
+                    "buyURL":"{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
                 }
             ]
     },
-    
-    "RoadMapPage":{
-        
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "可用语言",
+        "ChangeAlert": "完成切换语言"
     }
-    
-
-  
 }

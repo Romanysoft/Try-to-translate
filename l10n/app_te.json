@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "హోం",
+        "Feature": "ఫీచర్స్",
+        "Documents": "ఫైలు",
+        "ReleaseNotes": "విడుదల గమనికలు",
+        "Downloads": "ఉచిత ట్రయల్",
+        "Buy": "కొనుగోలు",
+        "Roadmap": "రోడ్ మ్యాప్",
+        "ReportIssue": "ఒక సమస్య గురించి నివేదించండి",
+        "Languages": "భాషా"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "త్వరిత అనువాదం సాధనం. Windows, Linux, MacOSX ఆపరేటింగ్ వ్యవస్థ మద్దతు.",
+        "BtnDownload": "ఉచిత ట్రయల్",
+        "BtnBuy": "కొనుగోలు",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "కీ ఫీచర్లు",
+            "list": [
+                "స్వయంచాలకంగా ఇన్పుట్ను మూల భాషని కనుగొను",
+                "ఫాస్ట్ ఏకకాలంలో అనువాదం సామర్థ్యాలు",
+                "జాతీయ భాష యొక్క 80 రకాల మద్దతు",
+                "బహుళ భాషలు లోకి ఒక భాష యొక్క అనువాద సహకరిస్తూ",
+                "అంతర్నిర్మిత బహుళ భాషా ఇంటర్ఫేస్"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "అందరి మూల్యాంకనం పరిశీలించి",
+            "list": [
+                {
+                    "reviewContent": "అద్భుతమైన ఉంది అనువదించడానికి ప్రయత్నించండి. సింపుల్. క్లీన్. పర్ఫెక్ట్. అభినందనలు.",
+                    "userName": "evanw",
+                    "professional": "టెక్నాలజీ మత ప్రచారకుడు"
+                },
+                {
+                    "reviewContent": "అనువదించడానికి ప్రయత్నించండి నేను అందంగా చాలా అన్ని లో నా రచన చేసేది. ఇది ఒక గొప్ప కొద్దిగా అప్లికేషన్.",
+                    "userName": "పీటర్ బ్రైట్",
+                    "professional": "ఆర్స్ టెక్నికా రైటర్"
+                },
+                {
+                    "reviewContent": "మీరు Markdown ఆసక్తి కలిగి ఉంటే, అనువదించడానికి ప్రయత్నించండి ఒక డౌన్లోడ్ విలువ ఖచ్చితంగా ఉంది.",
+                    "userName": "LifeHacker",
+                    "professional": "వెబ్ డెవలపర్ మరియు డిజైనర్"
+                },
+                {
+                    "reviewContent": "నేను నిజంగా నా పని కోసం చాలా సౌలభ్యం తెచ్చిపెట్టింది, అనువదించడానికి ప్రయత్నించండి ఇష్టం.",
+                    "userName": "jeruss",
+                    "professional": "PHP ముసాయిదా డెవలపర్"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "విడుదల",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "కెర్నల్ నవీకరణ"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "బగ్ను పరిష్కరించుటకు అనువాదం చుట్టు"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "చేర్చబడింది చేజింగ్ మెకానిజం"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. కెర్నల్ నవీకరణ"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. అనువాదం ఇంజిన్ ఆప్టిమైజేషన్"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "MacOS వెర్షన్ తో సమకాలీకరించబడిన మొదటి విడుదల."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "MacOS వెర్షన్ తో సమకాలీకరించబడిన మొదటి విడుదల."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "విడుదల",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "కొనుగోలు ఎలా",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "అందుబాటులో ఉన్న భాషలు",
+        "ChangeAlert": "పూర్తి స్విచ్ భాష"
+    }
+}

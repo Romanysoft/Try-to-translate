@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Documents": "File",
+        "ReleaseNotes": "Release Notes",
+        "Downloads": "Free Trial",
+        "Buy": "Reka",
+        "Roadmap": "Road Mapa",
+        "ReportIssue": "Tlaleha bothata",
+        "Languages": "Puo"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Quick phetolelo bohlokoa. Tšehetsa Windows, Linux, MacOSX tshebetso ya ho sebetsa.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Reka",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Key Features",
+            "list": [
+                "Ka tsela e iketsang khona ho utloa ho input mohloli puo",
+                "Fast o tsoa hong phetolelo bokgoni jwa go tlhama",
+                "Tšehetsa ba fetang 80 mefuta e wa setjhaba puo",
+                "Ha a ntse a ho tšehetsa oa ho fetolela ea ka lipuo ka dipuo tse dintsi",
+                "A haha-ka selotlolo puo segokanyimmediamentsi sa sebolokigolo"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Hlahlobeng mong le e mong a ileng a kala",
+            "list": [
+                {
+                    "reviewContent": "Leka ho fetolela ke hlollang le. Simple. Clean. Phethahetseng. U entse hantle.",
+                    "userName": "evanw",
+                    "professional": "Technology moevangeli"
+                },
+                {
+                    "reviewContent": "Leka ho fetolela ke seo ke se etsang le ntle haholo kaofela ha ka ho ngola a. Ke e khōlō nyenyane tiriso ye.",
+                    "userName": "Peter Bright",
+                    "professional": "Mongoli oa Ars Technica"
+                },
+                {
+                    "reviewContent": "Haeba u na le leha e le efe thahasello ea Markdown, Leka ho fetolela ke sebele rekoa ka download.",
+                    "userName": "LifeHacker",
+                    "professional": "Web Developer le Moqapi"
+                },
+                {
+                    "reviewContent": "Ke hlile ke rata Leka ho fetolela, entse lintho tse ngata bonolo ho bakeng sa mosebetsi oa ka.",
+                    "userName": "jeruss",
+                    "professional": "PHP Moralo wa Developer"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Release",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Kernel update go"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug lokisa phetolelo phuthela"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Phaella ka ho re caching mochine"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. khenele update go"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. phetolelo enjene godisiwa"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Ea pele e ho lokolloa, synchronized le MacOS tlhahiso."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Ea pele e ho lokolloa, synchronized le MacOS tlhahiso."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Release",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "How To Buy",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available Lipuo",
+        "ChangeAlert": "Ho feletseng fapoha puo"
+    }
+}

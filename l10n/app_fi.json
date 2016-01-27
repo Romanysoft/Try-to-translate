@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Koti",
+        "Feature": "Piirteet",
+        "Documents": "Tiedosto",
+        "ReleaseNotes": "Julkaisutiedot",
+        "Downloads": "Free Trial",
+        "Buy": "Osto",
+        "Roadmap": "Tiekartta",
+        "ReportIssue": "Ilmoita ongelmasta",
+        "Languages": "Kieli"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Nopea käännös työkalu. Tuki Windows, Linux, MacOSX käyttöjärjestelmä.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Osto",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Tärkeimmät ominaisuudet",
+            "list": [
+                "Tunnistaa automaattisesti tulolähteen kieli",
+                "Nopea simultaanitulkkaus valmiuksia",
+                "Tukea yli 80 eri kansallisella kielellä",
+                "Samalla tuetaan käännös yhdellä kielellä useita kieliä",
+                "Sisäänrakennettu monikielinen rajapinta"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Tutustu kaikkien arviointi",
+            "list": [
+                {
+                    "reviewContent": "Yritä kääntää on upea. Yksinkertainen. Puhdista. Perfect. Hyvin tehty.",
+                    "userName": "evanw",
+                    "professional": "Teknologia Evankelista"
+                },
+                {
+                    "reviewContent": "Yritä kääntää on mitä teen aika paljon kaikki minun kirjallisesti. Se on erittäin pieni app.",
+                    "userName": "Peter Kirkas",
+                    "professional": "Kirjailija Ars Technica"
+                },
+                {
+                    "reviewContent": "Jos sinulla on kiinnostusta Wikitekstin, Yritä kääntää on ehdottomasti kannattaa ladata.",
+                    "userName": "Lifehacker",
+                    "professional": "Web Developer ja suunnittelija"
+                },
+                {
+                    "reviewContent": "Pidän todella Yritä kääntää, on tuonut paljon mukavuutta työssäni.",
+                    "userName": "jeruss",
+                    "professional": "PHP Framework Developer"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Julkaisu",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Kernel päivitys"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug fix käännös Wrap"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Lisätty välimuistimekanismiin"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. ytimen päivitys"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. käännös hakukoneoptimoinnin"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Ensimmäinen julkaisu, synkronoitu MacOS versio."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Ensimmäinen julkaisu, synkronoitu MacOS versio."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Julkaisu",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Miten ostan",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available Languages",
+        "ChangeAlert": "Täydellinen vaihda kieltä"
+    }
+}

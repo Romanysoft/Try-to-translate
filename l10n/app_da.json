@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Hjem",
+        "Feature": "Egenskaber",
+        "Documents": "Fil",
+        "ReleaseNotes": "Release Notes",
+        "Downloads": "Gratis prøveversion",
+        "Buy": "Købe",
+        "Roadmap": "Vejkort",
+        "ReportIssue": "Rapporter et problem",
+        "Languages": "Sprog"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Hurtig oversættelse værktøj. Støtte til Windows, Linux, MacOSX operativsystem.",
+        "BtnDownload": "Gratis prøveversion",
+        "BtnBuy": "Købe",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Nøglefunktioner",
+            "list": [
+                "Automatisk registrere indgangskilden sprog",
+                "Hurtig simultantolkning kapaciteter",
+                "Understøtter mere end 80 typer af nationale sprog",
+                "Samtidig støtte oversættelse af et sprog til flere sprog",
+                "Indbygget multi-sprog-interface"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Tag et kig på alles vurdering",
+            "list": [
+                {
+                    "reviewContent": "Prøv at oversætte er forbløffende. Simple. Clean. Perfekt. Godt gået.",
+                    "userName": "evanw",
+                    "professional": "Teknologi Evangelist"
+                },
+                {
+                    "reviewContent": "Prøv at oversætte er, hvad jeg gør temmelig meget alle min skrivning i. Det er en stor lille app.",
+                    "userName": "Peter Bright",
+                    "professional": "Skribent på Ars Technica"
+                },
+                {
+                    "reviewContent": "Hvis du har nogen interesse i Markdown, Prøv at oversætte er absolut værd et download.",
+                    "userName": "Lifehacker",
+                    "professional": "Web Developer og Designer"
+                },
+                {
+                    "reviewContent": "Jeg kan virkelig godt lide Prøv at oversætte, har bragt megen bekvemmelighed for mit arbejde.",
+                    "userName": "jeruss",
+                    "professional": "PHP Framework Developer"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Frigivelse",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Kernel opdatering"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug fix oversættelse wrap"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Tilføjet caching mekanisme"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. kernel opdatering"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. Oversættelsen søgemaskineoptimering"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Den første udgivelse, synkroniseret med MacOS version."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Den første udgivelse, synkroniseret med MacOS version."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Frigivelse",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Sådan køber du",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Tilgængelige sprog",
+        "ChangeAlert": "Komplet skifte sprog"
+    }
+}

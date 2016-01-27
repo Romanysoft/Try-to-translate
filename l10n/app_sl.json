@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Domov",
+        "Feature": "Lastnosti",
+        "Documents": "Datoteka",
+        "ReleaseNotes": "Opombe k izdaji",
+        "Downloads": "Free Trial",
+        "Buy": "Nakup",
+        "Roadmap": "Road map",
+        "ReportIssue": "Prijavi težavo",
+        "Languages": "Language"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Hitro prevajalsko orodje. Podpora za Windows, Linux, MacOSX operacijskega sistema.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Nakup",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Ključne značilnosti",
+            "list": [
+                "Samodejno zaznavanje vhodnega vira jezik",
+                "Hitro simultano prevajalske zmogljivosti",
+                "Podpira več kot 80 vrst nacionalnem jeziku",
+                "Ob podpori prevod enega jezika v več jezikih",
+                "Vgrajen večjezičnim vmesnikom"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Oglejte si vrednotenja vsakogar",
+            "list": [
+                {
+                    "reviewContent": "Poskusite prevesti je omamljanje. Simple. Čisto. Idealen. Bravo.",
+                    "userName": "evanw",
+                    "professional": "Tehnologija Evangelist"
+                },
+                {
+                    "reviewContent": "Poskusite translate je tisto, kar delam precej vse moje pisanje v. To je zelo malo app.",
+                    "userName": "Peter Bright",
+                    "professional": "Pisatelj na Ars Technica"
+                },
+                {
+                    "reviewContent": "Če imate kakršne koli obresti v Markdown, poskusite prevesti, je vsekakor vredno download.",
+                    "userName": "Priporočene povezave",
+                    "professional": "Web Developer in Designer"
+                },
+                {
+                    "reviewContent": "Res mi je všeč Poskusite prevesti, je prinesla veliko udobje za moje delo.",
+                    "userName": "jeruss",
+                    "professional": "PHP Framework razvijalce"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Release",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Kernel posodobitev"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug prevod fix wrap"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Dodano caching mehanizem"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "Posodobitev 1. kernel"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. prevod engine optimizacija"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Prva izdaja, sinhroniziran z različico MacOS."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Prva izdaja, sinhroniziran z različico MacOS."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Release",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Kako kupiti",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Razpoložljivi jeziki",
+        "ChangeAlert": "Popolna stikalo jezik"
+    }
+}

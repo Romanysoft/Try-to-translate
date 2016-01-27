@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "منزل",
+        "Feature": "ملامح",
+        "Documents": "ملف",
+        "ReleaseNotes": "ملاحظات الإصدار",
+        "Downloads": "التجربة المجانية",
+        "Buy": "شراء",
+        "Roadmap": "خريطة طريق",
+        "ReportIssue": "الإبلاغ عن مشكلة",
+        "Languages": "لغة"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "أداة ترجمة سريعة. الدعم لنظام التشغيل ويندوز، لينكس، ماكوسكس.",
+        "BtnDownload": "التجربة المجانية",
+        "BtnBuy": "شراء",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "الميزات الرئيسية",
+            "list": [
+                "كشف لغة مصدر الدخل تلقائيا",
+                "قدرات الترجمة الفورية السريعة",
+                "دعم أكثر من 80 نوعا من لغة وطنية",
+                "وفي الوقت نفسه دعم الترجمة من لغة إلى لغات متعددة",
+                "المدمج في واجهة متعددة اللغات"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "نلقي نظرة على التقييم الجميع",
+            "list": [
+                {
+                    "reviewContent": "محاولة لترجمة هو مذهل. بسيطة. النظيفة. الكمال. حسنا فعلت.",
+                    "userName": "evanw",
+                    "professional": "التكنولوجيا الإنجيلي"
+                },
+                {
+                    "reviewContent": "محاولة لترجمة هو ما أقوم به جدا عن الكثير من كتابتي فيها انها التطبيق كبيرة قليلا.",
+                    "userName": "بيتر برايت",
+                    "professional": "الكاتب في آرس تكنيكا"
+                },
+                {
+                    "reviewContent": "إذا كان لديك أي مصلحة في تخفيض السعر، في محاولة لترجمة هو بالتأكيد يستحق التحميل.",
+                    "userName": "يفهكر",
+                    "professional": "مطور ويب ومصمم"
+                },
+                {
+                    "reviewContent": "أنا حقا أحب حاول أن يترجم، جلبت الراحة كثيرا لعملي.",
+                    "userName": "jeruss",
+                    "professional": "الإطار PHP المطور"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "إطلاق",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "نواة التحديث"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "علة التفاف ترجمة الإصلاح"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "وأضاف آلية التخزين المؤقت"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "تحديث 1. النواة"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. محرك الترجمة الأمثل"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "الإصدار الأول، وذلك بالتزامن مع إصدار ماك."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "الإصدار الأول، وذلك بالتزامن مع إصدار ماك."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "إطلاق",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "كيفية الشراء",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "اللغات المتوفرة",
+        "ChangeAlert": "كاملة اللغة التبديل"
+    }
+}

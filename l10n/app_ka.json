@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "მთავარი",
+        "Feature": "მახასიათებლები",
+        "Documents": "ფაილის",
+        "ReleaseNotes": "გამოშვების შენიშვნები",
+        "Downloads": "უფასო Trial",
+        "Buy": "ნასყიდობის",
+        "Roadmap": "საგზაო რუკა",
+        "ReportIssue": "პრობლემის",
+        "Languages": "ენა"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "სწრაფი თარგმანი ინსტრუმენტი. მხარდაჭერა Windows, Linux, MacOSX ოპერაციული სისტემა.",
+        "BtnDownload": "უფასო Trial",
+        "BtnBuy": "ნასყიდობის",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "ძირითადი თვისებები",
+            "list": [
+                "ავტომატურად აღმოაჩინოს შეყვანის წყაროს ენის",
+                "სწრაფი სინქრონული თარგმანი შესაძლებლობები",
+                "მხარდაჭერა 80-ზე მეტი სახის ეროვნულ ენაზე",
+                "მიუხედავად იმისა, რომ მხარს უჭერს თარგმანი ერთი ენიდან სხვადასხვა ენებზე",
+                "ჩამონტაჟებული მრავალ ენაზე ინტერფეისი"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "შეხედეთ ყველას შეფასების",
+            "list": [
+                {
+                    "reviewContent": "სცადეთ თარგმნა განსაცვიფრებელი. მარტივი. სუფთა. Perfect. კარგად გაკეთდეს.",
+                    "userName": "evanw",
+                    "professional": "ტექნიკა მახარებელი"
+                },
+                {
+                    "reviewContent": "სცადეთ თარგმნა გავაკეთო საკმაოდ ბევრი ყველა ჩემი წერის. ეს არის დიდი პატარა ოთახი.",
+                    "userName": "პიტერ Bright",
+                    "professional": "მწერალი Ars ტექნიკა"
+                },
+                {
+                    "reviewContent": "თუ თქვენ გაქვთ რაიმე ინტერესი Markdown, სცადეთ თარგმნა ნამდვილად ღირს ჩამოტვირთვა.",
+                    "userName": "Lifehacker",
+                    "professional": "ვებ დეველოპერი და დიზაინერი"
+                },
+                {
+                    "reviewContent": "მე ნამდვილად მინდა სცადეთ თარგმნა, მოიტანა ბევრი ფონდის ჩემი მუშაობა.",
+                    "userName": "jeruss",
+                    "professional": "PHP ჩარჩო დეველოპერი"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "გამოსვლის",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Kernel განახლება"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug სარემონტო თარგმანი გადატანა"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "დამატებულია ქეშირების მექანიზმი"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. ბირთვის განახლება"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. თარგმანი სისტემებში ოპტიმიზაცია"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "პირველი გამოშვების, სინქრონიზებული MacOS ვერსია."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "პირველი გამოშვების, სინქრონიზებული MacOS ვერსია."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "გამოსვლის",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "როგორ ვიყიდოთ",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "შესაძლო ენები",
+        "ChangeAlert": "სრული ენის შეცვლა"
+    }
+}

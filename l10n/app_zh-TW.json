@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "主頁",
+        "Feature": "功能特性",
+        "Documents": "文件",
+        "ReleaseNotes": "發行說明",
+        "Downloads": "免費試用",
+        "Buy": "購買",
+        "Roadmap": "路線圖",
+        "ReportIssue": "報告問題",
+        "Languages": "語言"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "快速翻譯工具。支持Windows、Linux、MacOSX操作系統。",
+        "BtnDownload": "免費試用",
+        "BtnBuy": "採購",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "產品主要特性",
+            "list": [
+                "輸入源語言自動檢測",
+                "快速同步翻譯功能",
+                "支持80多種各國語言",
+                "同時支持將一種語言翻譯成多種語言",
+                "內置多語言界面"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "看看大家的評價",
+            "list": [
+                {
+                    "reviewContent": "Try to translate is stunning. Simple. Clean. Perfect. Well done.",
+                    "userName": "evanw",
+                    "professional": "Technology Evangelist"
+                },
+                {
+                    "reviewContent": "Try to translate is what I do pretty much all of my writing in. It's a great little app.",
+                    "userName": "Peter Bright",
+                    "professional": "Writer at Ars Technica"
+                },
+                {
+                    "reviewContent": "If you have any interest in M​​arkdown, Try to translate is definitely worth a download.",
+                    "userName": "LifeHacker",
+                    "professional": "Web Developer and Designer"
+                },
+                {
+                    "reviewContent": "I really like Try to translate, has brought much convenience for my work.",
+                    "userName": "jeruss",
+                    "professional": "PHP Framework Developer"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "版本",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "內核更新"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "修復翻譯自動換行的Bug"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "加入緩存機制"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1.內核更新"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2.優化翻譯引擎"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "第一次發布，與MacOS版本同步."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "第一次發布，與MacOS版本同步."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "版本",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "購買方式",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "可用語言",
+        "ChangeAlert": "完成切換語言"
+    }
+}

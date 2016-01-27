@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "မူလစာမျက်နှာ",
+        "Feature": "အင်္ဂါရပ်များ",
+        "Documents": "file ကို",
+        "ReleaseNotes": "သတင်းထုတ်ပြန်ချက်မှတ်စုများ",
+        "Downloads": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
+        "Buy": "ဝယ်ယူ",
+        "Roadmap": "လမ်းပြမြေပုံ",
+        "ReportIssue": "ပြဿနာတစ်ခုတိုင်ကြားရန်",
+        "Languages": "ဘာသာစကား"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "လျင်မြန်စွာဘာသာပြန်ချက်ကိရိယာတခုဖြစ်တယ်။ Windows, Linux MacOSX operating system ကိုထောက်ပံ့ပေးတာဖြစ်ပါတယ်။",
+        "BtnDownload": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
+        "BtnBuy": "ဝယ်ယူ",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Key ကိုအင်္ဂါရပ်များ",
+            "list": [
+                "အလိုအလျောက် input ကို source ကိုဘာသာစကား detect",
+                "အစာရှောင်ခြင်းကိုတစ်ပြိုင်နက်တည်းဘာသာပြန်ချက်စွမ်းရည်များ",
+                "အမျိုးသားပြန်လည်ဘာသာစကား၏ 80 ကျော်မျိုးကိုထောကျပံ့",
+                "ဘာသာစကားမျိုးစုံသို့တဦးတည်းဘာသာစကား၏ဘာသာပြန်ချက် supporting စဉ်တွင်",
+                "Built-in Multi-ဘာသာစကား interface ကို"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "လူတိုင်းရဲ့အကဲဖြတ်ကြည့် Take",
+            "list": [
+                {
+                    "reviewContent": "ရင်သပ်ရှုမောဖွယ်ဖြစ်ပါသည်ဘာသာပြန်ဆိုဖို့ကြိုးစားပါ။ ရိုးရှင်းသော။ သန့်ရှင်းရေး။ ပြီးပြည့်စုံသော။ ကောင်းပြီပြုသောအမှု။",
+                    "userName": "evanw",
+                    "professional": "နည်းပညာကိုသာသနာပွုဆရာ"
+                },
+                {
+                    "reviewContent": "ဘာသာပြန်ဆိုဖို့ကြိုးစားပါငါတော်တော်များများငါ့အလိုရှိသမျှအရေးအသားအတွက်အဘယ်သို့ပြုမည်အရာကိုဖြစ်ပါတယ်။ ဒါဟာအလွန်ကြီးစွာသောအနည်းငယ်သာ app ကိုဖွင့်။",
+                    "userName": "ပေတရု မှစ. တ Bright",
+                    "professional": "ARS Technica မှာစာရေးဆရာ"
+                },
+                {
+                    "reviewContent": "သငျသညျ Markdown အတွက်မည်သည့်အကျိုးစီးပွားရှိပါကဘာသာပြန်ဆိုဖို့ကြိုးစားကျိန်းသေတစ်ဦးကို download ရကျိုးနပ်သည်။",
+                    "userName": "LifeHacker",
+                    "professional": "Web Developer များနှင့်ဒီဇိုင်နာ"
+                },
+                {
+                    "reviewContent": "ငါဘာသာပြန်ဆိုဖို့ကြိုးစားမယ့်ကြိုက်, ငါ့အလုပ်ကိုအဘို့အများကြီးအဆင်ပြေစေရန်ဆောင်ခဲ့တော်မူပြီ။",
+                    "userName": "jeruss",
+                    "professional": "PHP ကို​​မူဘောင် Developer တွေ"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "သတင်းထုတ်ပြန်ချက်",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "kernel update ကို"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "bug fix ဘာသာပြန်ချက်ထုပ်ပိုးပြီး"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Added caching ယန္တရား"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. kernel ကို update ကို"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. ဘာသာပြန်ချက် Engine Optimization"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "ထို MacOS ဗားရှင်းနဲ့စည်းချက်ကိုပထမဦးဆုံးလွှတ်ပေးရန်။"
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "ထို MacOS ဗားရှင်းနဲ့စည်းချက်ကိုပထမဦးဆုံးလွှတ်ပေးရန်။"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "သတင်းထုတ်ပြန်ချက်",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "မည်သို့ Buy ရန်",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ရရှိနိုင်သည့်ဘာသာစကားများကို",
+        "ChangeAlert": "complete switch ကိုဘာသာစကား"
+    }
+}

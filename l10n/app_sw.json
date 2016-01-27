@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Nyumbani",
+        "Feature": "Makala",
+        "Documents": "Faili",
+        "ReleaseNotes": "Maelezo ya kutolewa",
+        "Downloads": "Bure kesi",
+        "Buy": "Ununuzi",
+        "Roadmap": "Ramani ya barabara",
+        "ReportIssue": "Ripoti tatizo",
+        "Languages": "Lugha"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Haraka tafsiri chombo. Msaada kwa ajili ya Windows, Linux, MacOSX mfumo wa uendeshaji.",
+        "BtnDownload": "Bure kesi",
+        "BtnBuy": "Ununuzi",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Sifa muhimu",
+            "list": [
+                "Moja kwa moja kuchunguza lugha pembejeo chanzo",
+                "Haraka sawia uwezo tafsiri",
+                "Kuunga mkono aina zaidi ya 80 ya lugha ya taifa",
+                "Wakati kusaidia tafsiri ya lugha moja hadi lugha nyingi",
+                "Kujengwa katika lugha mbalimbali interface"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Tuangalie tathmini ya kila mtu",
+            "list": [
+                {
+                    "reviewContent": "Kujaribu kutafsiri ni stunning. Simple. Safi. Perfect. Vema.",
+                    "userName": "evanw",
+                    "professional": "Teknolojia Mwinjilisti"
+                },
+                {
+                    "reviewContent": "Kujaribu kutafsiri ni nini mimi pretty much wote wa maandishi yangu katika Ni programu kubwa kidogo..",
+                    "userName": "Peter Mkali",
+                    "professional": "Mwandishi katika Ars Technica"
+                },
+                {
+                    "reviewContent": "Kama una maslahi yoyote katika Markdown, Jaribu kutafsiri ni dhahiri thamani download.",
+                    "userName": "Lifehacker",
+                    "professional": "Mtandao Developer na Designer"
+                },
+                {
+                    "reviewContent": "Mimi kwa kweli kama Jaribu kutafsiri, umeleta urahisi sana kwa kazi yangu.",
+                    "userName": "jeruss",
+                    "professional": "PHP Mfumo Msanidi"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Kutolewa",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Kernel update"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Mdudu kurekebisha tafsiri wrap"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Aliongeza Caching utaratibu"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. Kernel update"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. optimization injini tafsiri"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Kwanza kutolewa, ikatokezea toleo la MacOS."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Kwanza kutolewa, ikatokezea toleo la MacOS."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Kutolewa",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Jinsi ya kununua",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Lugha inapatikana",
+        "ChangeAlert": "Kamili lugha kubadili"
+    }
+}

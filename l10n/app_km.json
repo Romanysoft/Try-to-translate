@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "ទំព័រ​ដើម",
+        "Feature": "លក្ខណៈ​ពិសេស",
+        "Documents": "ឯកសារ",
+        "ReleaseNotes": "កំណត់ចំណាំ​ការ​ចេញផ្សាយ",
+        "Downloads": "ការ​ជំនុំ​ជម្រះ​ដោយ​ឥត​គិត​ថ្លៃ",
+        "Buy": "ការ​ទិញ",
+        "Roadmap": "ផែនទី​បង្ហាញ​ផ្លូវ",
+        "ReportIssue": "រាយការណ៍​បញ្ហា",
+        "Languages": "ភាសា"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "ឧបករណ៍​បកប្រែ​រហ័ស​។ ការ​គាំទ្រ​សម្រាប់​ប្រព័ន្ធ​ប្រតិបត្តិការ Windows​, លីនុច​, MacOSX ។",
+        "BtnDownload": "ការ​ជំនុំ​ជម្រះ​ដោយ​ឥត​គិត​ថ្លៃ",
+        "BtnBuy": "ការ​ទិញ",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "លក្ខណៈ​ពិសេស",
+            "list": [
+                "រក​ឃើញ​ដោយ​ស្វ័យ​ប្រវត្តិ​ដោយ​ប្រើ​ភាសា​ប្រភព​បញ្ចូល",
+                "បកប្រែ​ជា​បន្តបន្ទាប់​យ៉ាង​ឆាប់​រហ័ស​សមត្ថភាព",
+                "គាំទ្រ​ដល់​ជាង 80 ប្រភេទ​នៃ​ភាសា​ជាតិ",
+                "ខណៈ​ពេល​ដែល​ការ​គាំទ្រ​ការ​បកប្រែ​នៃ​ភាសា​មួយ​ចូល​ទៅ​ក្នុង​ច្រើន​ភាសា",
+                "ប្រាសាទ​នេះ​កសាង​នៅ​ក្នុង​ចំណុច​ប្រទាក់​ដែល​មាន​ច្រើន​ភាសា"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "សូម​មើល​ការ​វាយ​តម្លៃ​របស់​អ្នក​រាល់​គ្នា​មួយ",
+            "list": [
+                {
+                    "reviewContent": "សូម​ព្យាយាម​ដើម្បី​ប​ក​ប្រែ​ជា​ការ​គួរ​ឱ្យ​ភ្ញាក់​ផ្អើល​។ ធម្មតា​។ ស្អាត​។ ល្អ​ឥត​ខ្ចោះ​។ ធ្វើ​បាន​យ៉ាង​ល្អ​។",
+                    "userName": "evanw",
+                    "professional": "ប​ច្ចេ​ក​វិទ្យា​គ្រូ​ផ្សាយដំណឹងល្អ"
+                },
+                {
+                    "reviewContent": "សូម​ព្យាយាម​ដើម្បី​បកប្រែ​គឺ​ជា​អ្វី​ដែល​ខ្ញុំ​បាន​ធ្វើ​ស្អាត​ជា​ច្រើន​ទាំង​អស់​នៃ​ការ​សរសេរ​របស់​ខ្ញុំ​នៅ​។ វា​ជា​កម្មវិធី​តិច​តួច​ខ្លាំង​ណាស់​។",
+                    "userName": "លោក​ពេត្រុស​ប្រាយ",
+                    "professional": "អ្នកនិពន្ធ​នៅ Ars Technica"
+                },
+                {
+                    "reviewContent": "ប្រសិន​បើ​អ្នក​មាន​ការ​ចាប់​អារម្មណ៍​ណា​មួយ​នៅ​ក្នុង markdowns​, សូម​ព្យាយាម​ដើម្បី​ប​ក​ប្រែ​គឺ​ពិត​ជា​មាន​តម្លៃ​ទាញ​យក​។",
+                    "userName": "Lifehacker",
+                    "professional": "រចនា​គេហទំព័រ​និង​អភិវឌ្ឍន៍"
+                },
+                {
+                    "reviewContent": "ខ្ញុំ​ពិត​ជា​ចូលចិត្ត​សូម​ព្យាយាម​ដើម្បី​បកប្រែ​បាន​នាំ​ភាព​ងាយ​ស្រួល​ច្រើន​សម្រាប់​ការ​ងារ​របស់​ខ្ញុំ​។",
+                    "userName": "jeruss",
+                    "professional": "អភិវឌ្ឍន៍​ក្របខ័ណ្ឌ​កម្មវិធី PHP"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "ការ​ចេញផ្សាយ",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "ធ្វើ​ឱ្យ​ទាន់​សម័យ​ខឺណែល"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "ការ​រុំ​ជួសជុល​ការ​ប​ក​ប្រែ​កំហុស"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "យន្តការ​ឃ្លាំង​សម្ងាត់​ដែល​បាន​បន្ថែម"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "ធ្វើ​ឱ្យ​ទាន់​សម័យ 1. ខឺណែល"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. ការ​បង្កើន​ប្រសិទ្ធិ​ភាព​ម៉ាស៊ីន​បកប្រែ​ភាសា"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "នេះ​ជា​ការ​ចេញ​ផ្សាយ​ជា​លើក​ដំបូង​, ធ្វើ​សម​កាល​កម្ម​ជាមួយ​នឹង​កំណែ MacOS ។"
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "នេះ​ជា​ការ​ចេញ​ផ្សាយ​ជា​លើក​ដំបូង​, ធ្វើ​សម​កាល​កម្ម​ជាមួយ​នឹង​កំណែ MacOS ។"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "ការ​ចេញផ្សាយ",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "តើ​ធ្វើ​ដូចម្តេច​ដើម្បី​ទិញ",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ភាសា​ដែល​អាច​ប្រើ​បាន",
+        "ChangeAlert": "ភាសា​កុងតាក់​ពេញលេញ"
+    }
+}

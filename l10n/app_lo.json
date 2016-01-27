@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "ຫນ້າ​ທໍາ​ອິດ",
+        "Feature": "ຄຸນ​ນະ​ສົມ​ບັດ",
+        "Documents": "ເອ​ກະ​ສານ",
+        "ReleaseNotes": "ບັນ​ທຶກ​ປະ​ຈໍາ",
+        "Downloads": "ການ​ທົດ​ລອງ​ຟຣີ",
+        "Buy": "ຊື້",
+        "Roadmap": "ແຜນ​ທີ່​ຖະ​ຫນົນ​ຫົນ​ທາງ",
+        "ReportIssue": "ລາຍ​ງານ​ບັນ​ຫາ​ໃດ​ຫນຶ່ງ",
+        "Languages": "ພາ​ສາ"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "ເຄື່ອງ​ມື​ແປ​ພາ​ສາ​ໄວ​. ສະ​ຫນັບ​ສະ​ຫນູນ​ສໍາ​ລັບ​ລະ​ບົບ​ປະ​ຕິ Windows​, Linux​, MacOSX​.",
+        "BtnDownload": "ການ​ທົດ​ລອງ​ຟຣີ",
+        "BtnBuy": "ຊື້",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "ຄຸນ​ນະ​ສົມ​ບັດ​ທີ່​ສໍາ​ຄັນ",
+            "list": [
+                "ອັດ​ຕະ​ໂນ​ມັດ​ການ​ກວດ​ສອບ​ພາ​ສາ​ທີ່​ສັນ​ຍານ",
+                "ໄວ​ຄວາມ​ສາ​ມາດ​ການ​ແປ​ພາ​ສາ​ພ້ອມ​ກັນ",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ຫຼາຍ​ກ​່​ວາ 80 ປະ​ເພດ​ຂອງ​ພາ​ສາ​ແຫ່ງ​ຊາດ",
+                "ໃນ​ຂະ​ນະ​ທີ່​ສະ​ຫນັບ​ສະ​ຫນູນ​ການ​ແປ​ພາ​ສາ​ຂອງ​ພາ​ສາ​ຫນຶ່ງ​ເປັນ​ພາ​ສາ​ທີ່​ຫຼາກ​ຫຼາຍ",
+                "ການ​ກໍ່​ສ້າງ​ໃນ​ການ​ໂຕ້​ຕອບ​ຫຼາຍ​ພາ​ສາ"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "ທ່ານ​ໄດ້​ເບິ່ງ​ຢູ່​ໃນ​ການ​ປະ​ເມີນ​ຜົນ​ຂອງ​ທຸກ​ຄົນ",
+            "list": [
+                {
+                    "reviewContent": "ພະ​ຍາ​ຍາມ​ແປ​ເປັນ stunning​. Simple​. ສະ​ອາດ​. Perfect​. ເຮັດ​ດີ​.",
+                    "userName": "evanw",
+                    "professional": "ເຕັກ​ໂນ​ໂລ​ຊີ Evangelist"
+                },
+                {
+                    "reviewContent": "ພະ​ຍາ​ຍາມ​ແປ​ແມ່ນ​ສິ່ງ​ທີ່​ຂ້າ​ພະ​ເຈົ້າ​ເຮັດ pretty ຫຼາຍ​ທັງ​ຫມົດ​ຂອງ​ລາຍ​ລັກ​ອັກ​ສອນ​ຂ້າ​ພະ​ເຈົ້າ​ໃນ​. ມັນ​ເປັນ app ທີ່​ຍິ່ງ​ໃຫຍ່​ພຽງ​ເລັກ​ນ້ອຍ​.",
+                    "userName": "Peter ສົດ​ໃສ",
+                    "professional": "Writer ຢູ່ Ars Technica"
+                },
+                {
+                    "reviewContent": "ຖ້າ​ຫາກ​ທ່ານ​ມີ​ຄວາມ​ສົນ​ໃຈ​ໃນ Markdown ໃດ​, ພະ​ຍາ​ຍາມ​ແປ​ເປັນ​ຕົກ​ເປັນ​ມູນ​ຄ່າ​ການ​ດາວ​ໂຫຼດ​.",
+                    "userName": "LifeHacker",
+                    "professional": "ຜູ້​ພັດ​ທະ​ນາ​ເວັບ​ໄຊ​ແລະ​ການ​ອອກ​ແບບ"
+                },
+                {
+                    "reviewContent": "ຂ້າ​ພະ​ເຈົ້າ​ກໍ່​ຢາກ​ພະ​ຍາ​ຍາມ​ຈະ​ແປ​ພາ​ສາ​, ໄດ້​ນໍາ​ເອົາ​ຄວາມ​ສະ​ດວກ​ຫຼາຍ​ສໍາ​ລັບ​ການ​ເຮັດ​ວຽກ​ຂ້າ​ພະ​ເຈົ້າ​.",
+                    "userName": "jeruss",
+                    "professional": "ພັດ​ທະ​ນາ PHP Framework"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "ການ​ປ່ອຍ",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "ການ​ປັບ​ປຸງ​ແກ່ນ"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Bug ຫໍ່ translation ການ​ແກ້​ໄຂ"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "ກົນ​ໄກ​ຈາກ​ຖານ​ຄວາມ​ຈໍາ​ເພີ່ມ"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1 ແກ່ນ​ປັບ​ປຸງ"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. ການ​ທີ່​ດີ​ທີ່​ສຸດ​ຂອງ​ເຄື່ອງ​ຈັກ​ໃນ​ການ​ແປ​ພາ​ສາ"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "ການ​ປ່ອຍ​ທໍາ​ອິດ​, synchronized ມີ​ສະ​ບັບ​ພາ​ສາ MacOS​."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "ການ​ປ່ອຍ​ທໍາ​ອິດ​, synchronized ມີ​ສະ​ບັບ​ພາ​ສາ MacOS​."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "ການ​ປ່ອຍ",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "ວິ​ທີ​ການ​ຊື້",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ພາ​ສາ​ທີ່​ມີ",
+        "ChangeAlert": "ພາ​ສາ​ທີ່​ສົມ​ບູນ​ສະ​ຫຼັບ"
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "घर",
+        "Feature": "विशेषताहरु",
+        "Documents": "फाइल",
+        "ReleaseNotes": "रिलीज नोट्स",
+        "Downloads": "फ्री परीक्षण",
+        "Buy": "खरीद",
+        "Roadmap": "रोड नक्शा",
+        "ReportIssue": "समस्या रिपोर्ट",
+        "Languages": "भाषा"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "द्रुत अनुवाद उपकरण। विन्डोज, लिनक्स, MacOSX परिचालन सिस्टम लागि समर्थन।",
+        "BtnDownload": "फ्री परीक्षण",
+        "BtnBuy": "खरीद",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "कुञ्जी विशेषताहरु",
+            "list": [
+                "स्वचालित रूपमा इनपुट स्रोत भाषा पत्ता",
+                "फास्ट साथ अनुवाद क्षमताहरु",
+                "राष्ट्रिय भाषा भन्दा बढी 80 प्रकारका समर्थन",
+                "धेरै भाषामा एक भाषा को अनुवाद समर्थन गर्दा",
+                "निर्माण-मा बहु-भाषा इन्टरफेस"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "सबैको मूल्याङ्कन मा एक नजर लिनुहोस्",
+            "list": [
+                {
+                    "reviewContent": "तेजस्वी छ अनुवाद गर्न प्रयास गर्नुहोस्। सरल। स्वच्छ। सिद्ध। राम्रोगर्नुहोस्।",
+                    "userName": "evanw",
+                    "professional": "प्रौद्योगिकी इंजीलवादी"
+                },
+                {
+                    "reviewContent": "अनुवाद गर्न प्रयास म धेरै धेरै सबै मा मेरो लेखन को के छ। यो एक ठूलो सानो अनुप्रयोग हो।",
+                    "userName": "पत्रुस चम्किलो",
+                    "professional": "ARS Technica मा लेखक"
+                },
+                {
+                    "reviewContent": "तपाईं छुट मा कुनै पनि चासो छ भने, अनुवाद गर्न प्रयास एक डाउनलोड निश्चित लायक छ।",
+                    "userName": "LifeHacker",
+                    "professional": "वेब डेभलपर र डिजाइनर"
+                },
+                {
+                    "reviewContent": "म साँच्चै मेरो काम को लागि धेरै सुविधा ल्याएको छ, अनुवाद गर्न प्रयास जस्तै।",
+                    "userName": "jeruss",
+                    "professional": "PHP फ्रेमवर्क विकासकर्ता"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "विज्ञप्ति",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "कर्नेल अद्यावधिक"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "बग तय अनुवाद च्यादर"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "जोडी क्यास संयन्त्रको"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1 कर्नेल अद्यावधिक"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2 अनुवाद इन्जिन अनुकूलन"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "यो MacOS संस्करण सिन्क्रोनाइज पहिलो रिलीज।"
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "यो MacOS संस्करण सिन्क्रोनाइज पहिलो रिलीज।"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "विज्ञप्ति",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "खरिद गर्न कसरी",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "उपलब्ध भाषा",
+        "ChangeAlert": "पूर्ण स्विच भाषा"
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "홈",
+        "Feature": "특징",
+        "Documents": "파일",
+        "ReleaseNotes": "릴리스 노트",
+        "Downloads": "무료 평가판",
+        "Buy": "매수",
+        "Roadmap": "도로지도",
+        "ReportIssue": "문제 신고",
+        "Languages": "언어"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "빠른 번역 도구입니다. 윈도우, 리눅스,에서라도 운영 체제를 지원합니다.",
+        "BtnDownload": "무료 평가판",
+        "BtnBuy": "매수",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "주요 특징",
+            "list": [
+                "자동 입력 소스 언어 검색",
+                "빠른 동시 통역 기능",
+                "국가 언어의 80 개 이상의 종류의 지원",
+                "여러 언어로 하나의 언어의 번역을 지원하는 동안",
+                "내장 된 다중 언어 인터페이스"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "모든 사람의 평가를 살펴 보자",
+            "list": [
+                {
+                    "reviewContent": "충격적이다 번역하려고합니다. 간단한. 청소. 완벽. 잘 했어.",
+                    "userName": "evanw",
+                    "professional": "기술 책임자"
+                },
+                {
+                    "reviewContent": "번역하려고하는 것은 내가 거의 모든 내 글을 쓰는 할 것입니다. 그것은 좋은 작은 응용 프로그램입니다.",
+                    "userName": "피터 밝은",
+                    "professional": "아스 테크니카에서 작가"
+                },
+                {
+                    "reviewContent": "당신은 마크 다운에 관심이 있다면, 번역하려고하면 다운로드 확실히 가치가있다.",
+                    "userName": "Lifehacker에",
+                    "professional": "웹 개발자 및 디자이너"
+                },
+                {
+                    "reviewContent": "난 정말 내 작품에 대한 많은 편리함을 가져왔다, 번역을 시도 좋아합니다.",
+                    "userName": "jeruss",
+                    "professional": "PHP 프레임 워크 개발자"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "해제",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "커널 업데이트"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "버그 수정 번역 랩"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "추가 캐싱 메커니즘"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "1. 커널 업데이트"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. 변환 엔진 최적화"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "맥 OS 버전과 동기화 첫 번째 릴리스."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "맥 OS 버전과 동기화 첫 번째 릴리스."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "해제",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "구입 방법",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "사용 가능한 언어",
+        "ChangeAlert": "전체 언어 변경"
+    }
+}

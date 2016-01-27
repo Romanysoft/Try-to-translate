@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Дадому",
+        "Feature": "Рысы",
+        "Documents": "Файл",
+        "ReleaseNotes": "Заўвагі да выпуску",
+        "Downloads": "Бясплатная пробная версія",
+        "Buy": "Купля",
+        "Roadmap": "Дарожная карта",
+        "ReportIssue": "Паведаміць аб праблеме",
+        "Languages": "Мова"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Хуткі інструмент перакладу. Падтрымка аперацыйнай сістэмы Windows, Linux, MacOSX.",
+        "BtnDownload": "Бясплатная пробная версія",
+        "BtnBuy": "Купля",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Асноўныя характарыстыкі",
+            "list": [
+                "Аўтаматычнае вызначэнне зыходнага мовы ўводу",
+                "Магчымасці хуткага сінхроннага перакладу",
+                "Падтрымка больш за 80 відаў нацыянальнай мовы",
+                "Падтрымліваючы пераклад з адной мовы на некалькіх мовах",
+                "Убудаваны інтэрфейс шматмоўным"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Зірніце на ацэнцы кожнага",
+            "list": [
+                {
+                    "reviewContent": "Паспрабуйце перавесці з'яўляецца ашаламляльным. Просты. Чысты. Perfect. Малайцы.",
+                    "userName": "evanw",
+                    "professional": "Тэхналогія Евангеліст"
+                },
+                {
+                    "reviewContent": "Паспрабуйце перавесці тое, што я раблю амаль усе з майго ліста ст. Гэта выдатны невялікае прыкладанне.",
+                    "userName": "Пітэр Яскравы",
+                    "professional": "Пісьменнік у Ars Technica"
+                },
+                {
+                    "reviewContent": "Калі ў вас ёсць цікавасць у Markdown, паспрабуйце перавесці гэта, безумоўна, варта спампаваць.",
+                    "userName": "LifeHacker",
+                    "professional": "Вэб-распрацоўшчык і дызайнер"
+                },
+                {
+                    "reviewContent": "Мне вельмі падабаецца Паспрабуйце перавесці, прынёс шмат зручнасць для маёй працы.",
+                    "userName": "jeruss",
+                    "professional": "PHP Framework Распрацоўшчык"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Рэліз",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Абнаўленне ядра"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Памылка перакладу выпраўленне абкручванне"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Дададзена механізм кэшавання"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "Абнаўленне ядра 1."
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. Пераклад Пошукавая аптымізацыя"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Першы выпуск, сінхранізаваныя з версіяй MacOS."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Першы выпуск, сінхранізаваныя з версіяй MacOS."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Рэліз",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Як купіць",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Даступныя Мовы",
+        "ChangeAlert": "Поўны пераключыць мову"
+    }
+}

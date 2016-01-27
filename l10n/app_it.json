@@ -1,0 +1,210 @@
+{
+    "TopBar": {
+        "Home": "Casa",
+        "Feature": "Lineamenti",
+        "Documents": "File",
+        "ReleaseNotes": "Note di rilascio",
+        "Downloads": "Prova gratuita",
+        "Buy": "Acquisto",
+        "Roadmap": "Carta stradale",
+        "ReportIssue": "Segnala un problema",
+        "Languages": "Lingua"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Strumento di traduzione rapida. Il supporto per il sistema operativo Windows, Linux, MacOSX.",
+        "BtnDownload": "Prova gratuita",
+        "BtnBuy": "Acquisto",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Caratteristiche principali",
+            "list": [
+                "Rilevare automaticamente la lingua sorgente d'ingresso",
+                "Veloce capacità di traduzione simultanea",
+                "Supporta più di 80 tipi di lingua nazionale",
+                "Pur sostenendo la traduzione di una lingua in più lingue",
+                "Built-in interfaccia multi-lingua"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Date un'occhiata a valutazione di tutti",
+            "list": [
+                {
+                    "reviewContent": "Cercare di tradurre è stupefacente. Semplice. Pulire. Perfetto. Ben fatto.",
+                    "userName": "evanw",
+                    "professional": "Technology Evangelist"
+                },
+                {
+                    "reviewContent": "Cercare di tradurre è quello che faccio praticamente tutto il mio scritto. E 'un piccolo grande applicazione.",
+                    "userName": "Peter Luminoso",
+                    "professional": "Scrittore in Ars Technica"
+                },
+                {
+                    "reviewContent": "Se avete qualche interesse per Markdown, cercare di tradurre merita sicuramente un download.",
+                    "userName": "LifeHacker",
+                    "professional": "Web Developer e Designer"
+                },
+                {
+                    "reviewContent": "Mi piace molto cercare di tradurre, ha portato molta convenienza per il mio lavoro.",
+                    "userName": "jeruss",
+                    "professional": "Sviluppatore PHP Framework"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Rilascio",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "list": [
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Aggiornamento del kernel"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Involucro traduzione bug fix"
+                    },
+                    {
+                        "platform": "{{Windows/MacOSX}}",
+                        "content": "Meccanismo di caching Aggiunto"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "Aggiornamento del kernel 1."
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "2. L'ottimizzazione dei motori di traduzione"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "La prima versione, sincronizzata con la versione MacOS."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "La prima versione, sincronizzata con la versione MacOS."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Rilascio",
+        "list": [
+            {
+                "version": "{{3.19.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1yv099r4ut0h/Trytotranslate-v3.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.19-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4fom8kieu2q3/Trytotranslate-v3.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.19.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7gb7oz95gwhh/TryToTranslate-v3.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{3.18.0}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x86-setup.exe}}",
+                        "size": "{{44.7MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.18-win32-x64-setup.exe}}",
+                        "size": "{{53.4MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.18.0-darwin-x64.zip}}",
+                        "size": "{{4.8MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-ia32-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{Trytotranslate-v3.18-linux-x64-install.tar.gz}}",
+                        "size": "{{38.6MB}}",
+                        "downURL": "{{http://pan.baidu.com/s/1hqWb6vi}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Come acquistare",
+        "list": [
+            {
+                "name": "{{Try to translate for Windows}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{60 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
+            },
+            {
+                "name": "{{Try to translate for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-39}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
+            },
+            {
+                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{Try to translate for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$9.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Lingue disponibili",
+        "ChangeAlert": "Lingua Completa interruttore"
+    }
+}
