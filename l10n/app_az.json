@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Ev",
         "Feature": "Features",
-        "Documents": "Fayl",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Release Qeydlər",
         "Downloads": "Free Trial",
         "Buy": "Alış",
-        "Roadmap": "Yol xəritəsi",
+        "Roadmap": "Marşrut",
         "ReportIssue": "Bir sorunu bildirmek",
         "Languages": "Dil"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Features",
+            "SectionName": "Əsas funksiyalar",
             "list": [
                 "Avtomatik olaraq giriş mənbə dil aşkar",
                 "Fast sinxron tərcümə imkanları",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "صفحه اصلی",
         "Feature": "ویژگی های",
-        "Documents": "فایل",
+        "Documents": "مستندات آنلاین",
         "ReleaseNotes": "یادداشتهای انتشار",
         "Downloads": "آزمایش رایگان",
         "Buy": "خرید",
-        "Roadmap": "نقشه راه",
+        "Roadmap": "مسیر",
         "ReportIssue": "گزارش یک مشکل",
         "Languages": "زبان"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "ویژگی های کلیدی",
+            "SectionName": "ویژگی های اصلی",
             "list": [
                 "زبان منبع ورودی به صورت خودکار شناسایی",
                 "قابلیت ترجمه همزمان سریع",

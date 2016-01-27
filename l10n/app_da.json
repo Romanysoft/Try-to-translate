@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Hjem",
         "Feature": "Egenskaber",
-        "Documents": "Fil",
+        "Documents": "Online Dokumentation",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Gratis prøveversion",
         "Buy": "Købe",
-        "Roadmap": "Vejkort",
+        "Roadmap": "Rute",
         "ReportIssue": "Rapporter et problem",
         "Languages": "Sprog"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Nøglefunktioner",
+            "SectionName": "Hovedtræk",
             "list": [
                 "Automatisk registrere indgangskilden sprog",
                 "Hurtig simultantolkning kapaciteter",

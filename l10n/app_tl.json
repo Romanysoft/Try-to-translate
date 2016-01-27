@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Mga Tampok",
-        "Documents": "File",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Libreng Pagsubok",
         "Buy": "Purchase",
-        "Roadmap": "Mapa ng daan",
+        "Roadmap": "Route",
         "ReportIssue": "Mag-ulat ng problema",
         "Languages": "Wika"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Features",
+            "SectionName": "Pangunahing tampok",
             "list": [
                 "Awtomatikong tuklasin ang mga input na pinagmulan ng wika",
                 "Mabilis sabay-sabay na mga kakayahan ng pagsasalin",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Hejmo",
         "Feature": "Karakterizaĵoj",
-        "Documents": "Dosiero",
+        "Documents": "Enreta Dokumentoj",
         "ReleaseNotes": "Release Notoj",
         "Downloads": "Free Trial",
         "Buy": "Aĉeto",
-        "Roadmap": "Vojmapo",
+        "Roadmap": "Itinero",
         "ReportIssue": "Raportu problemo",
         "Languages": "Lingvo"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Ŝlosilo Elstaraĵoj",
+            "SectionName": "Ĉefaj karakterizaĵoj",
             "list": [
                 "Aŭtomate detekti la enigo fontlingvo",
                 "Rapida samtempa traduko kapablojn",

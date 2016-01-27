@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "මුල් පිටුව",
         "Feature": "විශේෂාංග",
-        "Documents": "ගොනුව",
+        "Documents": "ඔන්ලයින් ප්රලේඛන",
         "ReleaseNotes": "මුදා හැරීමේ සටහන්",
         "Downloads": "නිදහස් ට්රයල්",
         "Buy": "මිලදී ගැනීම",
-        "Roadmap": "මාර්ග සිතියම",
+        "Roadmap": "මාර්ග",
         "ReportIssue": "ගැටලුවක් වාර්තා",
         "Languages": "භාෂා"
     },

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Nyumbani",
         "Feature": "Makala",
-        "Documents": "Faili",
+        "Documents": "Online Nyaraka",
         "ReleaseNotes": "Maelezo ya kutolewa",
         "Downloads": "Bure kesi",
         "Buy": "Ununuzi",
-        "Roadmap": "Ramani ya barabara",
+        "Roadmap": "Njia",
         "ReportIssue": "Ripoti tatizo",
         "Languages": "Lugha"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Sifa muhimu",
+            "SectionName": "Makala kuu",
             "list": [
                 "Moja kwa moja kuchunguza lugha pembejeo chanzo",
                 "Haraka sawia uwezo tafsiri",

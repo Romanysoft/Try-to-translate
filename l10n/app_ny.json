@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Mbali",
-        "Documents": "Wapamwamba",
+        "Documents": "Online Kulemba",
         "ReleaseNotes": "Kumasulidwa Mfundo",
         "Downloads": "Free Mlandu",
         "Buy": "Purchase",
-        "Roadmap": "Mapu",
+        "Roadmap": "Route",
         "ReportIssue": "Nenani vuto",
         "Languages": "Language"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Mfungulo Mbali",
+            "SectionName": "Main mbali",
             "list": [
                 "Basi kuona athandizira gwero chinenero",
                 "Kudya munthawi yomweyo yomasulira maluso",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "主页",
         "Feature": "功能特性",
-        "Documents": "文件",
+        "Documents": "联机文档",
         "ReleaseNotes": "发行说明",
         "Downloads": "免费试用",
         "Buy": "购买",
-        "Roadmap": "路线图",
+        "Roadmap": "路线",
         "ReportIssue": "报告问题",
         "Languages": "语言"
     },
@@ -29,7 +29,7 @@
         ],
         
         "Features":{
-            "SectionName":"产品主要特性",
+            "SectionName":"主要功能特性",
             "list":[
                 "输入源语言自动检测",
                 "快速同步翻译功能",

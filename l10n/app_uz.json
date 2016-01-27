@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Uy",
         "Feature": "Xususiyatlar",
-        "Documents": "Fayl",
+        "Documents": "Online Hujjatlar",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Bepul Sinov",
         "Buy": "Sotib olish to'g'risida",
-        "Roadmap": "Yo'l xaritasi",
+        "Roadmap": "Yo'l",
         "ReportIssue": "Bir muammo haqida xabar berish",
         "Languages": "Til"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Xususiyatlar",
+            "SectionName": "Asosiy xususiyatlari",
             "list": [
                 "Avtomatik ravishda asosiy manbai tilini aniqlash",
                 "Fast sinxron tarjima qobiliyat",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "घर",
         "Feature": "विशेषताहरु",
-        "Documents": "फाइल",
+        "Documents": "अनलाइन दस्तावेजीकरण",
         "ReleaseNotes": "रिलीज नोट्स",
         "Downloads": "फ्री परीक्षण",
         "Buy": "खरीद",
-        "Roadmap": "रोड नक्शा",
+        "Roadmap": "मार्ग",
         "ReportIssue": "समस्या रिपोर्ट",
         "Languages": "भाषा"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "कुञ्जी विशेषताहरु",
+            "SectionName": "मुख्य विशेषताहरु",
             "list": [
                 "स्वचालित रूपमा इनपुट स्रोत भाषा पत्ता",
                 "फास्ट साथ अनुवाद क्षमताहरु",

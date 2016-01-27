@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Domov",
         "Feature": "Funkcie",
-        "Documents": "Súbor",
+        "Documents": "Online dokumentácia",
         "ReleaseNotes": "Poznámky k vydaniu",
         "Downloads": "Skúšobná verzia zdarma",
         "Buy": "Nákup",
-        "Roadmap": "Cestná mapa",
+        "Roadmap": "Trasa",
         "ReportIssue": "Nahlásiť problém",
         "Languages": "Jazyk"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Kľúčové vlastnosti",
+            "SectionName": "Hlavné rysy",
             "list": [
                 "Automaticky detekovať vstupný zdrojový jazyk",
                 "Rýchle simultánne schopnosti prekladateľskej",

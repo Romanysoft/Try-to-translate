@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Zu Hause",
         "Feature": "Eigenschaften",
-        "Documents": "Akte",
+        "Documents": "Online-Dokumentation",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Kostenlose Testversion",
         "Buy": "Kaufen",
-        "Roadmap": "Straßenkarte",
+        "Roadmap": "Route",
         "ReportIssue": "Problem melden",
         "Languages": "Sprache"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Features",
+            "SectionName": "Hauptmerkmale",
             "list": [
                 "Automatisch die Eingangsquelle Sprache erkennen",
                 "Schnelle Simultanübersetzung Fähigkeiten",

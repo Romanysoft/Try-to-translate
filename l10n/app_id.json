@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Rumah",
         "Feature": "Fitur",
-        "Documents": "Berkas",
+        "Documents": "Dokumentasi online",
         "ReleaseNotes": "Catatan Rilis",
         "Downloads": "Free Trial",
         "Buy": "Pembelian",
-        "Roadmap": "Peta jalan",
+        "Roadmap": "Rute",
         "ReportIssue": "Melaporkan masalah",
         "Languages": "Bahasa"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Fitur Utama",
+            "SectionName": "Fitur utama",
             "list": [
                 "Secara otomatis mendeteksi bahasa sumber input",
                 "Cepat kemampuan terjemahan simultan",

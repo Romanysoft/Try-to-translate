@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "File",
+        "Documents": "Online ditokomane tse",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free Trial",
         "Buy": "Reka",
-        "Roadmap": "Road Mapa",
+        "Roadmap": "Route",
         "ReportIssue": "Tlaleha bothata",
         "Languages": "Puo"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Features",
+            "SectionName": "Ditshebetsong",
             "list": [
                 "Ka tsela e iketsang khona ho utloa ho input mohloli puo",
                 "Fast o tsoa hong phetolelo bokgoni jwa go tlhama",

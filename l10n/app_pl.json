@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Do domu",
         "Feature": "Funkcje",
-        "Documents": "Plik",
+        "Documents": "Dokumentacja online",
         "ReleaseNotes": "Informacje o wydaniu",
         "Downloads": "Bezpłatna wersja próbna",
         "Buy": "Zakup",
-        "Roadmap": "Mapa drogowa",
+        "Roadmap": "Trasa",
         "ReportIssue": "Zgłoś problem",
         "Languages": "Język"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Najważniejsze funkcje",
+            "SectionName": "Główne cechy",
             "list": [
                 "Automatyczne wykrywanie języka źródła sygnału",
                 "Szybko jednoczesnych możliwości tłumaczenia",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "హోం",
         "Feature": "ఫీచర్స్",
-        "Documents": "ఫైలు",
+        "Documents": "ఆన్లైన్ డాక్యుమెంటేషన్",
         "ReleaseNotes": "విడుదల గమనికలు",
         "Downloads": "ఉచిత ట్రయల్",
         "Buy": "కొనుగోలు",
-        "Roadmap": "రోడ్ మ్యాప్",
+        "Roadmap": "రూట్",
         "ReportIssue": "ఒక సమస్య గురించి నివేదించండి",
         "Languages": "భాషా"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "కీ ఫీచర్లు",
+            "SectionName": "ప్రధాన లక్షణాలు",
             "list": [
                 "స్వయంచాలకంగా ఇన్పుట్ను మూల భాషని కనుగొను",
                 "ఫాస్ట్ ఏకకాలంలో అనువాదం సామర్థ్యాలు",

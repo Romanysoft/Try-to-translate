@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Főoldal",
         "Feature": "Jellemzők",
-        "Documents": "Fájl",
+        "Documents": "Online dokumentáció",
         "ReleaseNotes": "Kiadási megjegyzések",
         "Downloads": "Ingyenesen kipróbálható",
         "Buy": "Vásárlási",
-        "Roadmap": "Autóstérkép",
+        "Roadmap": "Útvonal",
         "ReportIssue": "Probléma jelentése",
         "Languages": "Nyelv"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Főbb jellemzők",
+            "SectionName": "Főbb jellemzői",
             "list": [
                 "Automatikusan érzékeli a bemeneti forrás nyelven",
                 "Gyors szinkrontolmácsolás képességek",

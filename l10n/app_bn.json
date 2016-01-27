@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "বাড়ি",
         "Feature": "বৈশিষ্ট্য",
-        "Documents": "ফাইল",
+        "Documents": "অনলাইন ডকুমেন্টেশন",
         "ReleaseNotes": "রিলিজ নোট",
         "Downloads": "ফ্রি ট্রায়াল",
         "Buy": "ক্রয়",
-        "Roadmap": "রোডম্যাপ",
+        "Roadmap": "রুট",
         "ReportIssue": "একটি সমস্যার প্রতিবেদন লিখুন",
         "Languages": "ভাষা"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "মূল বৈশিষ্ট্য",
+            "SectionName": "মুখ্য বৈশিষ্ট্য",
             "list": [
                 "স্বয়ংক্রিয়ভাবে ইনপুট উৎস ভাষা সনাক্ত",
                 "ফাস্ট যুগপত অনুবাদ ক্ষমতা",

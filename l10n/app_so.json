@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "File",
+        "Documents": "Warqadaha Online",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Trial Free",
         "Buy": "Iibso",
-        "Roadmap": "Road map",
+        "Roadmap": "Route",
         "ReportIssue": "Soo sheeg dhibaato",
         "Languages": "Language"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Features Key",
+            "SectionName": "Muuqaalada Main",
             "list": [
                 "Si toos ah loo ogaado afka il debeda",
                 "Fast awoodaha turjumaad isku mar",

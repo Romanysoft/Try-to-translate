@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "File",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Release Mubo nga mga sulat",
         "Downloads": "Free Trial",
         "Buy": "Pagpalit",
-        "Roadmap": "Road map",
+        "Roadmap": "Route",
         "ReportIssue": "Isumbong sa usa ka problema",
         "Languages": "Pinulongan"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Features",
+            "SectionName": "Nag-unang bahin",
             "list": [
                 "Awtomatikong makamatikod sa input nga tinubdan pinulongan",
                 "Pagpuasa dungan nga hubad kapabilidad",

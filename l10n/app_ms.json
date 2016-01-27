@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Laman",
         "Feature": "Ciri-ciri",
-        "Documents": "Fail",
+        "Documents": "Dokumentasi Dalam Talian",
         "ReleaseNotes": "Nota Keluaran",
         "Downloads": "Percubaan Percuma",
         "Buy": "Pembelian",
-        "Roadmap": "Peta jalan",
+        "Roadmap": "Laluan",
         "ReportIssue": "Laporkan masalah",
         "Languages": "Bahasa"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Ciri-ciri Utama",
+            "SectionName": "Ciri-ciri utama",
             "list": [
                 "Secara automatik mengesan bahasa sumber input",
                 "Keupayaan terjemahan serentak Fast",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Kay",
         "Feature": "Karakteristik",
-        "Documents": "File",
+        "Documents": "Online Dokimantasyon",
         "ReleaseNotes": "Release Nòt",
         "Downloads": "Gratis Jijman",
         "Buy": "Achte",
-        "Roadmap": "Kat wout",
+        "Roadmap": "Route",
         "ReportIssue": "Rapòte yon pwoblèm",
         "Languages": "Lang"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Aparans kle",
+            "SectionName": "Karakteristik prensipal",
             "list": [
                 "Otomatikman detekte lang nan sous D '",
                 "Kapasite vit tradiksyon similtane",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Domov",
         "Feature": "Lastnosti",
-        "Documents": "Datoteka",
+        "Documents": "Online dokumentacija",
         "ReleaseNotes": "Opombe k izdaji",
         "Downloads": "Free Trial",
         "Buy": "Nakup",
-        "Roadmap": "Road map",
+        "Roadmap": "Pot",
         "ReportIssue": "Prijavi težavo",
         "Languages": "Language"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Ključne značilnosti",
+            "SectionName": "Glavne značilnosti",
             "list": [
                 "Samodejno zaznavanje vhodnega vira jezik",
                 "Hitro simultano prevajalske zmogljivosti",

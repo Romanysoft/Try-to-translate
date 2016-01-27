@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "File",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free Trial",
         "Buy": "Purchase",
-        "Roadmap": "Vegakort",
+        "Roadmap": "Route",
         "ReportIssue": "Tilkynna um vandamál",
         "Languages": "Tungumál"
     },

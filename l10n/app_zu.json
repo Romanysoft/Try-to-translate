@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Izici",
-        "Documents": "Ifayela",
+        "Documents": "Online Imibhalo",
         "ReleaseNotes": "Release Amanothi",
         "Downloads": "Trial Free",
         "Buy": "Ukuthengwa",
-        "Roadmap": "Ibalazwe Road",
+        "Roadmap": "Route",
         "ReportIssue": "Bika inkinga",
         "Languages": "Ulimi"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Izici Key",
+            "SectionName": "Izici Main",
             "list": [
                 "Ngokuzenzakalela ukubona ulimi umthombo input",
                 "Fast kanyekanye translation amakhono",

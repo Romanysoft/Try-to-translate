@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Fasali",
-        "Documents": "Fayil",
+        "Documents": "Online takardun",
         "ReleaseNotes": "Bayanan kula saki",
         "Downloads": "Free gwajin",
         "Buy": "Purchase",
-        "Roadmap": "Road map",
+        "Roadmap": "Hanya",
         "ReportIssue": "Bayar da rahoton matsala",
         "Languages": "Harshe"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Features",
+            "SectionName": "Main fasali",
             "list": [
                 "Ta atomatik gane da labari tushen harshe",
                 "Fast lokaci daya translation damar",

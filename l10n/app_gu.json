@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "મુખ્ય પૃષ્ઠ",
         "Feature": "લક્ષણો",
-        "Documents": "ફાઇલ",
+        "Documents": "ઓનલાઇન દસ્તાવેજીકરણ",
         "ReleaseNotes": "પ્રકાશન નોંધો",
         "Downloads": "મફત ટ્રાયલ",
         "Buy": "ખરીદી",
-        "Roadmap": "રોડ નકશો",
+        "Roadmap": "રૂટ",
         "ReportIssue": "સમસ્યાની જાણ કરો",
         "Languages": "ભાષા"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "કી લક્ષણો",
+            "SectionName": "મુખ્ય લક્ષણો",
             "list": [
                 "આપમેળે ઇનપુટ સ્રોત ભાષા શોધતું",
                 "ઝડપી સાથે અનુવાદ ક્ષમતાઓ",

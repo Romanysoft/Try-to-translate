@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Domi",
         "Feature": "Features",
-        "Documents": "File",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free",
         "Buy": "Purchase",
-        "Roadmap": "Via map",
+        "Roadmap": "Itinere",
         "ReportIssue": "Report a forsit",
         "Languages": "Lingua"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Fusce rhoncus tincidunt ipsum",
+            "SectionName": "Marisque",
             "list": [
                 "Automatically deprehendere input source lingua",
                 "Fast simul translationem capabilities",

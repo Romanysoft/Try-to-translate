@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "主頁",
         "Feature": "功能特性",
-        "Documents": "文件",
+        "Documents": "聯機文檔",
         "ReleaseNotes": "發行說明",
         "Downloads": "免費試用",
         "Buy": "購買",
-        "Roadmap": "路線圖",
+        "Roadmap": "路線",
         "ReportIssue": "報告問題",
         "Languages": "語言"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "產品主要特性",
+            "SectionName": "主要功能特性",
             "list": [
                 "輸入源語言自動檢測",
                 "快速同步翻譯功能",

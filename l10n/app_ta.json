@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "முகப்பு",
         "Feature": "அம்சங்கள்",
-        "Documents": "கோப்பு",
+        "Documents": "ஆன்லைன் ஆவணம்",
         "ReleaseNotes": "வெளியீட்டு அறிக்கை",
         "Downloads": "இலவச சோதனை",
         "Buy": "கொள்முதல்",
-        "Roadmap": "சாலை வரைபடம்",
+        "Roadmap": "பாதை",
         "ReportIssue": "ஒரு புகாரளிக்கவும்",
         "Languages": "மொழி"
     },

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Hjem",
         "Feature": "Funksjoner",
-        "Documents": "Fil",
+        "Documents": "Elektronisk dokumentasjon",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Gratis prøveversjon",
         "Buy": "Kjøp",
-        "Roadmap": "Veikart",
+        "Roadmap": "Rute",
         "ReportIssue": "Rapporter et problem",
         "Languages": "Språk"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Nøkkelfunksjoner",
+            "SectionName": "Hovedtrekk",
             "list": [
                 "Oppdage inngangskilden språket automatisk",
                 "Raske simultanoversettelse evner",

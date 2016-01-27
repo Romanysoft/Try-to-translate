@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Huis",
         "Feature": "Funksies",
-        "Documents": "Lêer",
+        "Documents": "Online Dokumentasie",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free Trial",
         "Buy": "Aankoop",
-        "Roadmap": "Padkaart",
+        "Roadmap": "Route",
         "ReportIssue": "Rapporteer 'n probleem",
         "Languages": "Taal"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Sleutel kenmerke",
+            "SectionName": "Belangrikste kenmerke",
             "list": [
                 "Die insette brontaal outomaties",
                 "Fast gelyktydige vertaling vermoëns",

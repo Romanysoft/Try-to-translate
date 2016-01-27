@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "בית",
         "Feature": "תכונות",
-        "Documents": "קובץ",
+        "Documents": "תיעוד מקוון",
         "ReleaseNotes": "הערות",
         "Downloads": "ניסיון חינם",
         "Buy": "רכישה",
-        "Roadmap": "מפת הדרכים",
+        "Roadmap": "כביש",
         "ReportIssue": "דווח על בעיה",
         "Languages": "שפה"
     },

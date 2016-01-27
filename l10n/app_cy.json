@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Cartref",
         "Feature": "Nodweddion",
-        "Documents": "Ffeil",
+        "Documents": "Dogfennaeth Ar-lein",
         "ReleaseNotes": "Nodiadau Rhyddhau",
         "Downloads": "Treial am ddim",
         "Buy": "Prynu",
-        "Roadmap": "Map ffordd",
+        "Roadmap": "Llwybr",
         "ReportIssue": "Rhoi gwybod am broblem",
         "Languages": "Iaith"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Nodweddion Allweddol",
+            "SectionName": "Prif nodweddion",
             "list": [
                 "Awtomatig canfod yr iaith wreiddiol mewnbwn",
                 "Galluoedd Cyflym cyfieithu ar y pryd",

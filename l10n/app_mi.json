@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Kāinga",
         "Feature": "Āhuatanga",
-        "Documents": "Kōnae",
+        "Documents": "Tuhinga Online",
         "ReleaseNotes": "Tuku Notes",
         "Downloads": "Whakamātau Free",
         "Buy": "Hoko",
-        "Roadmap": "Road mahere",
+        "Roadmap": "Ararere",
         "ReportIssue": "Pūrongo i te raruraru",
         "Languages": "Reo"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Āhuatanga matua",
+            "SectionName": "Āhuatanga Main",
             "list": [
                 "Kitea aunoa i te reo pūtake tāuru",
                 "Nohopuku kaha translation tukutahi",

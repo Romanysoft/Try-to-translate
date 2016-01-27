@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Hasiera",
         "Feature": "Ezaugarriak",
-        "Documents": "Fitxategia",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Bertsio-oharrak",
         "Downloads": "Free Trial",
         "Buy": "Erosteko",
-        "Roadmap": "Errepideen mapa",
+        "Roadmap": "Ibilbidea",
         "ReportIssue": "Arazo baten berri",
         "Languages": "Hizkuntza"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Ezaugarriak",
+            "SectionName": "Ezaugarri nagusiak",
             "list": [
                 "Automatikoki detektatu sarrerako sorburu-hizkuntza",
                 "Aldi bereko Fast itzulpen gaitasunak",

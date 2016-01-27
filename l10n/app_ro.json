@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Acasă",
         "Feature": "Caracteristici",
-        "Documents": "Fișier",
+        "Documents": "Documentație online",
         "ReleaseNotes": "Note de lansare",
         "Downloads": "Free Trial",
         "Buy": "Cumpărare",
-        "Roadmap": "Harta rutieră",
+        "Roadmap": "Traseu",
         "ReportIssue": "Raportați o problemă",
         "Languages": "Limbă"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Caracteristici cheie",
+            "SectionName": "Caracteristici principale",
             "list": [
                 "Detecta automat limba sursă de intrare",
                 "Capabilități rapide de traducere simultana",

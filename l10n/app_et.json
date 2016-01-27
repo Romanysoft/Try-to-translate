@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Kodus",
         "Feature": "Omadused",
-        "Documents": "Faili",
+        "Documents": "Hetkel Dokumentatsiooni",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Tasuta prooviversioon",
         "Buy": "Ostu",
-        "Roadmap": "Teede kaart",
+        "Roadmap": "Marsruut",
         "ReportIssue": "Teata probleemist",
         "Languages": "Keel"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Features",
+            "SectionName": "Peamised omadused",
             "list": [
                 "Automaatselt tuvastada sisendallikaga keel",
                 "Fast sünkroontõlge võimeid",

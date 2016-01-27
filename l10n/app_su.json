@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Imah",
         "Feature": "Fitur",
-        "Documents": "File",
+        "Documents": "Dokumén Online",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Sidang Free",
         "Buy": "Meuli",
-        "Roadmap": "Jalan map",
+        "Roadmap": "Rute",
         "ReportIssue": "Wartoskeun masalah",
         "Languages": "Basa"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Ciri Key",
+            "SectionName": "Fitur utama",
             "list": [
                 "Otomatis ngadeteksi basa input sumber",
                 "Fast kamampuhan panarjamahan simultaneous",

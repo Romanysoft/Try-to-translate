@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "ہوم",
         "Feature": "خصوصیات",
-        "Documents": "فائل",
+        "Documents": "آن لائن دستاویزی",
         "ReleaseNotes": "ریلیز نوٹس",
         "Downloads": "مفت مقدمے کی سماعت",
         "Buy": "خریداری",
-        "Roadmap": "روڈ کا نقشہ",
+        "Roadmap": "روٹ",
         "ReportIssue": "ایک مسئلہ کی رپورٹ",
         "Languages": "زبان"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "کی بنیادی خصوصیات",
+            "SectionName": "اہم خصوصیات",
             "list": [
                 "خود کار طریقے سے ان پٹ کے ذریعہ زبان کا پتہ لگانے",
                 "فاسٹ بیک وقت ترجمہ صلاحیتوں",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "บ้าน",
         "Feature": "คุณสมบัติ",
-        "Documents": "ไฟล์",
+        "Documents": "เอกสารออนไลน์",
         "ReleaseNotes": "หมายเหตุรีลีส",
         "Downloads": "ทดลองใช้ฟรี",
         "Buy": "ซื้อ",
-        "Roadmap": "แผนที่ถนน",
+        "Roadmap": "เส้นทาง",
         "ReportIssue": "รายงานปัญหา",
         "Languages": "ภาษา"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "คุณสมบัติที่สำคัญ",
+            "SectionName": "คุณสมบัติหลัก",
             "list": [
                 "ตรวจสอบโดยอัตโนมัติภาษาแหล่งนำเข้า",
                 "ความสามารถในการแปลภาษาได้อย่างรวดเร็วพร้อมกัน",

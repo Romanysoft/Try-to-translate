@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Casa",
         "Feature": "Recursos",
-        "Documents": "Arquivo",
+        "Documents": "Documentação Online",
         "ReleaseNotes": "Notas de versão",
         "Downloads": "Free Trial",
         "Buy": "Compra",
-        "Roadmap": "Mapa das estradas",
+        "Roadmap": "Rota",
         "ReportIssue": "Comunicar um problema",
         "Languages": "Língua"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Principais Características",
+            "SectionName": "Principais características",
             "list": [
                 "Detectar automaticamente o idioma fonte de entrada",
                 "Capacidades de tradução simultânea rápidos",

@@ -2,7 +2,7 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "file",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free Trial",
         "Buy": "buy",
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Features",
+            "SectionName": "Main features",
             "list": [
                 "Automatically detect the input source language",
                 "Fast simultaneous translation capabilities",

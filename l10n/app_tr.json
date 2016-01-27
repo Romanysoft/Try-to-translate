@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Ev",
         "Feature": "Özellikler",
-        "Documents": "Dosya",
+        "Documents": "Çevrimiçi Belgeler",
         "ReleaseNotes": "Sürüm Notları",
         "Downloads": "Ücretsiz Deneme",
         "Buy": "Satınalma",
-        "Roadmap": "Yol haritası",
+        "Roadmap": "Rota",
         "ReportIssue": "Sorun bildirme",
         "Languages": "Lisan"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Temel Özellikler",
+            "SectionName": "Ana özellikleri",
             "list": [
                 "Otomatik olarak giriş kaynak dilini algılar",
                 "Hızlı simültane çeviri yetenekleri",

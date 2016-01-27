@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "ホーム",
         "Feature": "特長",
-        "Documents": "ファイル",
+        "Documents": "オンラインドキュメント",
         "ReleaseNotes": "リリースノート",
         "Downloads": "フリートライアル",
         "Buy": "購入",
-        "Roadmap": "道路地図",
+        "Roadmap": "ルート",
         "ReportIssue": "問題を報告します",
         "Languages": "言語"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "主な特徴",
+            "SectionName": "主な特長",
             "list": [
                 "自動的に入力ソース言語を検出",
                 "高速同時通訳機能",

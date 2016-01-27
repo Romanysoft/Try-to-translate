@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Uz mājām",
         "Feature": "Features",
-        "Documents": "Fails",
+        "Documents": "Online dokumentācija",
         "ReleaseNotes": "Laidienu",
         "Downloads": "Free Trial",
         "Buy": "Pirkuma",
-        "Roadmap": "Ceļu karte",
+        "Roadmap": "Maršruts",
         "ReportIssue": "Ziņot par kļūdu",
         "Languages": "Valoda"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Galvenās funkcijas",
+            "SectionName": "Galvenās iezīmes",
             "list": [
                 "Automātiski noteikt ieejas avota valodu",
                 "Ātri sinhronā tulkošana iespējas",

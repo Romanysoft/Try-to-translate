@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Koti",
         "Feature": "Piirteet",
-        "Documents": "Tiedosto",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Julkaisutiedot",
         "Downloads": "Free Trial",
         "Buy": "Osto",
-        "Roadmap": "Tiekartta",
+        "Roadmap": "Reitti",
         "ReportIssue": "Ilmoita ongelmasta",
         "Languages": "Kieli"
     },

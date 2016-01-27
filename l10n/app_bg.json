@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "У дома",
         "Feature": "Удобства",
-        "Documents": "Пила",
+        "Documents": "Online Документация",
         "ReleaseNotes": "Бележки по изданието",
         "Downloads": "Free Trial",
         "Buy": "Покупка",
-        "Roadmap": "Пътна карта",
+        "Roadmap": "Маршрут",
         "ReportIssue": "Съобщи за проблем",
         "Languages": "Език"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Основни функции",
+            "SectionName": "Основни характеристики",
             "list": [
                 "Автоматично откриване на езика като източник на входа",
                 "Бързи възможности симултанен превод",

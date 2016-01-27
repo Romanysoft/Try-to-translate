@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "မူလစာမျက်နှာ",
         "Feature": "အင်္ဂါရပ်များ",
-        "Documents": "file ကို",
+        "Documents": "အွန်လိုင်းမှတ်တမ်း",
         "ReleaseNotes": "သတင်းထုတ်ပြန်ချက်မှတ်စုများ",
         "Downloads": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
         "Buy": "ဝယ်ယူ",
-        "Roadmap": "လမ်းပြမြေပုံ",
+        "Roadmap": "route",
         "ReportIssue": "ပြဿနာတစ်ခုတိုင်ကြားရန်",
         "Languages": "ဘာသာစကား"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key ကိုအင်္ဂါရပ်များ",
+            "SectionName": "main features တွေ",
             "list": [
                 "အလိုအလျောက် input ကို source ကိုဘာသာစကား detect",
                 "အစာရှောင်ခြင်းကိုတစ်ပြိုင်နက်တည်းဘာသာပြန်ချက်စွမ်းရည်များ",

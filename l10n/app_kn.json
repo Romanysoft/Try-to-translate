@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "ಮುಖಪುಟ",
         "Feature": "ವೈಶಿಷ್ಟ್ಯಗಳು",
-        "Documents": "ಫೈಲ್",
+        "Documents": "ಆನ್ಲೈನ್ ದಾಖಲೆ",
         "ReleaseNotes": "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು",
         "Downloads": "ಉಚಿತ ಟ್ರಯಲ್",
         "Buy": "ಖರೀದಿ",
-        "Roadmap": "ಮಾರ್ಗಸೂಚಿಯು",
+        "Roadmap": "ಮಾರ್ಗ",
         "ReportIssue": "ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ",
         "Languages": "ಭಾಷಾ"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "ಕೀ ಲಕ್ಷಣಗಳು",
+            "SectionName": "ಮುಖ್ಯ ಲಕ್ಷಣಗಳು",
             "list": [
                 "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಇನ್ಪುಟ್ ಮೂಲ ಭಾಷೆ ಪತ್ತೆ",
                 "ಫಾಸ್ಟ್ ಏಕಕಾಲಿಕ ಭಾಷಾಂತರ ಸಾಮರ್ಥ್ಯಗಳನ್ನು",

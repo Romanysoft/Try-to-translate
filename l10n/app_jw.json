@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Ngarep",
         "Feature": "Fitur",
-        "Documents": "Gambar",
+        "Documents": "Dokumentasi Online",
         "ReleaseNotes": "Release Cathetan",
         "Downloads": "Nyoba free",
         "Buy": "Tuku",
-        "Roadmap": "Road map",
+        "Roadmap": "Auto",
         "ReportIssue": "Laporan masalah",
         "Languages": "Language"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Fitur Key",
+            "SectionName": "Fitur utama",
             "list": [
                 "Kanthi otomatis ndeteksi basa sumber input",
                 "Cepet Kapabilitas terjemahan simultaneous",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "मुख्यपृष्ठ",
         "Feature": "वैशिष्ट्ये",
-        "Documents": "फाइल",
+        "Documents": "ऑनलाइन दस्तऐवज",
         "ReleaseNotes": "प्रकाशन टिपा",
         "Downloads": "विनामूल्य चाचणी",
         "Buy": "खरेदी",
-        "Roadmap": "रस्ता नकाशा",
+        "Roadmap": "मार्ग",
         "ReportIssue": "समस्या नोंदवा",
         "Languages": "भाषा"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "प्रमुख वैशिष्ट्ये",
+            "SectionName": "मुख्य वैशिष्ट्ये",
             "list": [
                 "स्वयंचलितपणे इनपुट स्रोत भाषा ओळखतो",
                 "जलद एकाचवेळी अनुवाद क्षमता",

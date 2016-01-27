@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Atụmatụ",
-        "Documents": "File",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Hapụ ndị edeturu",
         "Downloads": "Free Trial",
         "Buy": "Ịzụ",
-        "Roadmap": "Road map",
+        "Roadmap": "Nsoro",
         "ReportIssue": "Kọọrọnụ a nsogbu",
         "Languages": "Asụsụ"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Atụmatụ",
+            "SectionName": "Isi atụmatụ",
             "list": [
                 "Akpaghị aka ịchọpụta ndenye isi iyi asụsụ",
                 "Fast imekotaotuugbo translation ike",

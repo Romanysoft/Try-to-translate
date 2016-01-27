@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Տուն",
         "Feature": "Նկարագրություն",
-        "Documents": "Ֆայլ",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "ՕՆԼԱՅՆ Notes",
         "Downloads": "Free Trial",
         "Buy": "Գնում",
-        "Roadmap": "Ճանապարհային քարտեզ",
+        "Roadmap": "Ուղի",
         "ReportIssue": "Հաղորդել խնդիր",
         "Languages": "Լեզու"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Հիմնական Նկարագրություն",
+            "SectionName": "Հիմնական հատկանիշները",
             "list": [
                 "Ավտոմատ կերպով հայտնաբերել է մուտքագրման աղբյուր լեզուն",
                 "Արագ միաժամանակյա թարգմանություն կարողությունները",

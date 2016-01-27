@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Endri-javatra",
-        "Documents": "Rakitra",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Free Fitsarana",
         "Buy": "Purchase",
-        "Roadmap": "Road Map",
+        "Roadmap": "Route",
         "ReportIssue": "Report ny olana",
         "Languages": "Language"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Key Features",
+            "SectionName": "Main endri-javatra",
             "list": [
                 "Mamantatra avy hatrany ny loharano fahan'ny teny",
                 "Fast niara fahaiza-manao fandikan-teny",

@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Shtëpi",
         "Feature": "Karakteristika",
-        "Documents": "Skedar",
+        "Documents": "Dokumentacioni në internet",
         "ReleaseNotes": "Shënime Versioni",
         "Downloads": "Free Trial",
         "Buy": "Blerje",
-        "Roadmap": "Hartë rruge",
+        "Roadmap": "Rrugë",
         "ReportIssue": "Raporto një problem",
         "Languages": "Gjuhë"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Karakteristikat kryesore",
+            "SectionName": "Karakteristika kryesore",
             "list": [
                 "Automatikisht të zbulojë gjuhën burim input",
                 "Fast aftësitë përkthim simultan",

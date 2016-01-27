@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Awọn ẹya ara ẹrọ",
-        "Documents": "Faili",
+        "Documents": "Online Documentation",
         "ReleaseNotes": "Tu Notes",
         "Downloads": "Free Iwadii",
         "Buy": "Ra",
-        "Roadmap": "Road map",
+        "Roadmap": "Route",
         "ReportIssue": "Jabo a isoro",
         "Languages": "Language"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Awọn ẹya ara ẹrọ Key",
+            "SectionName": "Akọkọ awọn ẹya ara ẹrọ",
             "list": [
                 "Laifọwọyi ri awọn input orisun ede",
                 "Sare igbakana translation agbara",

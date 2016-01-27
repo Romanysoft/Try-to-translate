@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "Hem",
         "Feature": "Egenskaper",
-        "Documents": "Fil",
+        "Documents": "Onlinedokumentation",
         "ReleaseNotes": "Utgåvan",
         "Downloads": "Free Trial",
         "Buy": "Inköp",
-        "Roadmap": "Vägkarta",
+        "Roadmap": "Rutt",
         "ReportIssue": "Rapportera ett problem",
         "Languages": "Språk"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "Nyckelfunktioner",
+            "SectionName": "Huvudfunktioner",
             "list": [
                 "Automatisk identifiering ingångskälla språk",
                 "Snabba samtidiga funktioner översättnings",

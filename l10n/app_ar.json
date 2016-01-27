@@ -2,11 +2,11 @@
     "TopBar": {
         "Home": "منزل",
         "Feature": "ملامح",
-        "Documents": "ملف",
+        "Documents": "الوثائق عبر الإنترنت",
         "ReleaseNotes": "ملاحظات الإصدار",
         "Downloads": "التجربة المجانية",
         "Buy": "شراء",
-        "Roadmap": "خريطة طريق",
+        "Roadmap": "مسار",
         "ReportIssue": "الإبلاغ عن مشكلة",
         "Languages": "لغة"
     },
@@ -28,7 +28,7 @@
             "{{images/screens/common/c4.png}}"
         ],
         "Features": {
-            "SectionName": "الميزات الرئيسية",
+            "SectionName": "الملامح الرئيسية",
             "list": [
                 "كشف لغة مصدر الدخل تلقائيا",
                 "قدرات الترجمة الفورية السريعة",
