@@ -18,7 +18,7 @@
     <link rel="apple-touch-icon-precomposed" href="images/ico/logo_57.png">
     <link rel="shortcut icon" href="images/ico/logo_64.png">
 
-    <script src="js/common/jquery-1.12.0.min.js"></script>
+    <script src="js/common/jquery-1.12.3.min.js"></script>
     <script src="js/common/artTemplate/3.0/template.js"></script>
     <script src="js/config.js"></script>
     <script src="js/google-analytics.js"></script>
@@ -44,7 +44,7 @@
           <div class="wrapper no-pad">
                <ul class="navigation">
                  {{each list as navigation}}
-                     <li><a href="{{#navigation.url}}">{{navigation.name}}</a></li>
+                     <li><a href="{{#navigation.url}}" target="{{#navigation.target}}">{{navigation.name}}</a></li>
                  {{/each}}
               </ul>
          </div>
@@ -54,7 +54,7 @@
     <!--- Changelog template --->
     <script id="changelog-content-tmpl" type="text/html">
         {{each list as oneVersion}}
-        <h3><a id="app-features" class="anchor" href="" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{labelVersion}} {{#oneVersion.version}}</h3>
+        <h3><a id="app-features" class="anchor" href="" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{labelVersion}} {{#oneVersion.version}}  <sub>{{#oneVersion["updateDate"] || "" }}</sub></h3>
         <div>
             <ul class="changelog-list">
                 {{each oneVersion.list as changelog}}

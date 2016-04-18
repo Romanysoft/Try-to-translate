@@ -2,26 +2,25 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "File",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Free Trial",
-        "Buy": "buy",
-        "Roadmap": "Product line",
-        "ReportIssue": "problem",
-        "Languages": "Language"
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Quick translation tool. Support for Windows, Linux, MacOSX operating system.",
+        "ProjectTagline": "A handy translation tool for your daily multilingual needs.",
         "BtnDownload": "Free Trial",
-        "BtnBuy": "purchase",
+        "BtnBuy": "Buy",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
             "{{images/screens/common/c3.jpg}}",
             "{{images/screens/common/c4.jpg}}",
             "{{images/screens/common/c5.jpg}}",
-            "{{images/screens/common/c6.jpg}}",
             "{{images/screens/common/c1.png}}",
             "{{images/screens/common/c2.png}}",
             "{{images/screens/common/c3.png}}",
@@ -65,51 +64,8 @@
     },
     "FeaturePage": {},
     "DocumentsPage": {},
-    "ReleaseNotePage": {
-        "labelVersion": "version",
-        "list": [
-            {
-                "version": "{{3.19.0}}",
-                "list": [
-                    {
-                        "platform": "{{Windows/MacOSX}}",
-                        "content": "Kernel update"
-                    },
-                    {
-                        "platform": "{{Windows/MacOSX}}",
-                        "content": "Bug fix translation wrap"
-                    },
-                    {
-                        "platform": "{{Windows/MacOSX}}",
-                        "content": "Added caching mechanism"
-                    }
-                ]
-            },
-            {
-                "version": "{{3.18.0}}",
-                "list": [
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "1. kernel update"
-                    },
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "2. The translation engine optimization"
-                    },
-                    {
-                        "platform": "{{Windows}}",
-                        "content": "The first release, synchronized with the MacOS version."
-                    },
-                    {
-                        "platform": "{{Linux}}",
-                        "content": "The first release, synchronized with the MacOS version."
-                    }
-                ]
-            }
-        ]
-    },
     "VersionPage": {
-        "labelVersion": "version",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{3.19.0}}",
@@ -172,7 +128,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Method of buying",
+        "SectionName": "Buy",
         "list": [
             {
                 "name": "{{Try to translate for Windows}}",
@@ -193,12 +149,6 @@
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-34}}"
             },
             {
-                "name": "{{Try to translate for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/mas.png}}",
-                "price": "{{$9.99}}",
-                "buyURL": "{{https://itunes.apple.com/us/app/try-to-translate/id921866694?l=zh&ls=1&mt=12}}"
-            },
-            {
                 "name": "{{Try to translate for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$9.99}}",
@@ -208,7 +158,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Available Languages",
-        "ChangeAlert": "Complete switch language"
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
     }
 }
