@@ -70,6 +70,42 @@
         "labelVersion": "Version",
         "list": [
             {
+                "version": "{{3.21.0}}",
+                "updateDate": "{{2016.05.04}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.21-win32-x86-setup.exe}}",
+                        "size": "{{34.9MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6ai9k6a9lv9r/Try%20to%20translate-v3.21-win32-x32-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{Trytotranslate-v3.21-win32-x64-setup.exe}}",
+                        "size": "{{40.74MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2x0ieniv61/Try%20to%20translate-v3.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{TryToTranslate-v3.21.0-darwin-x64.zip}}",
+                        "size": "{{5.16MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6ffdqyc6h07p/TryToTranslate-v3.21.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{TryToTranslate-v3.21.0-linux-ia32-install.tar.gz}}",
+                        "size": "{{43MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/xlwqy008atd/Trytotranslate-v3.21-linux-ia32-install.tar.gz}}" 
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{TryToTranslate-v3.21.0-linux-x64-install.tar.gz}}",
+                        "size": "{{43MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/i8xl26pp9ft/Trytotranslate-v3.21-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
+            {
                 "version": "{{3.20.0}}",
                 "updateDate": "{{2016.04.27}}",
                 "zipList": [
