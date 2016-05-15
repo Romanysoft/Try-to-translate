@@ -220,11 +220,6 @@
                 "name": "{{Try to translate for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-40}}"
-            },
-            {
-                "name": "{{Try to translate for Windows}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525168235869}}"
             }
         ]
     },
