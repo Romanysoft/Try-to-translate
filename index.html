@@ -42,6 +42,7 @@
         </div>
         <div class="section-reviews">
         </div>
+        <div class="section-partners">
         <h3></h3>
         <footer class="site-footer">
         </footer>
@@ -157,6 +158,18 @@
         </div>
     </script>
 
+    <!--- Partners template --->
+    <script id="partner-content-tmpl" type="text/html">
+        <h3><a id="app-features" class="anchor" href="" aria-hidden="true"><span class="octicon octicon-link"></span></a>{{SectionName}}</h3>
+        <div>
+            {{each list as obj}}
+            <a href="{{obj.url}}"  target="_blank">
+                <img src="{{obj.img}}" style="max-width:210px">
+            </a>
+            {{/each}}
+        </div>
+    </script>    
+    
     <script src="js/l10n.js"></script>
     <script src="js/views/top-bar.js"></script>
     <script src="js/views/footer.js"></script>

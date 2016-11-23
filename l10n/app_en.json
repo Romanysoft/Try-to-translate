@@ -64,6 +64,15 @@
                     "professional": "PHP Framework Developer"
                 }
             ]
+        },
+        "CooperativePartner":{
+            "SectionName": "WE'RE EVERYWHERE",
+            "list": [
+                {
+                 "img":"http://www.softwarebee.com/images/logo_210x80.gif",  
+                 "url":"http://softwarebee.com/download/try-to-translate-for-mac.html"
+                }
+            ]
         }
     },
     "FeaturePage": {},

@@ -47,6 +47,16 @@
             list: l10n["UserReviews"].list
         });
         $('.section-reviews').html(htmlContent);
+        
+        // 更新partner
+        if(l10n["CooperativePartner"]){
+            htmlContent = template('partner-content-tmpl', {
+                SectionName: l10n["CooperativePartner"].SectionName,
+                list: l10n["CooperativePartner"].list
+            });
+            $('.section-partners').html(htmlContent);     
+        }
+   
 
         // 是否需要图片旋转
         var wantSlider = true;
