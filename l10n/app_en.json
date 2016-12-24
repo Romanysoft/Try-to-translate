@@ -88,28 +88,19 @@
                         "osUrl": "{{images/download/win32.png}}",
                         "name": "{{Try to translate-v3.22-win32-x86-setup.exe}}",
                         "size": "{{37.1MB}}",
-                        "downURL": [
-                            "{{http://www.filefactory.com/file/5qcu5xhds02f/Try_to%20translate-v3.22-win32-x86-setup.exe}}",
-                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/TryToTranslate/3.22/Try%20to%20translate-v3.22-win32-x86-setup.exe}}"
-                        ]
+                        "downURL": "{{http://www.filefactory.com/file/5qcu5xhds02f/Try_to%20translate-v3.22-win32-x86-setup.exe}}"
                     },
                     {
                         "osUrl": "{{images/download/win32.png}}",
                         "name": "{{Try to translate-v3.22-win32-x64-setup.exe}}",
                         "size": "{{43.4MB}}",
-                        "downURL": [
-                            "{{http://www.filefactory.com/file/4144vcrabhg9/Try_to%20translate-v3.22-win32-x64-setup.exe}}",
-                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/TryToTranslate/3.22/Try%20to%20translate-v3.22-win32-x64-setup.exe}}"
-                        ]
+                        "downURL": "{{http://www.filefactory.com/file/4144vcrabhg9/Try_to%20translate-v3.22-win32-x64-setup.exe}}"
                     },
                     {
                         "osUrl": "{{images/download/osx.png}}",
                         "name": "{{TryToTranslate-v3.22.0.dmg}}",
                         "size": "{{4.8MB}}",
-                        "downURL": [
-                            "{{http://www.filefactory.com/file/443y6fpi7d1b/TryToTranslate-v3.22.0.dmg}}",
-                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/TryToTranslate/3.22/TryToTranslate-v3.22.0.dmg}}"
-                        ]
+                        "downURL": "{{http://www.filefactory.com/file/443y6fpi7d1b/TryToTranslate-v3.22.0.dmg}}"
                     }
                 ]
             },            
