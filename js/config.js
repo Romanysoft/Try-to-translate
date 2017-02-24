@@ -9,7 +9,12 @@
         reportIssueUrl:"//github.com/Romanysoft/Try-to-translate/issues",
         changeLogUrl:"//github.com/Romanysoft/Try-to-translate/wiki/Changelog",
         wikiUrl:"//github.com/Romanysoft/Try-to-translate/wiki",
+        jumpLocation:"https://www.romanysoft.net/try-to-translate/",
         romanysoftHome:"//www.romanysoft.com",
         copyright:"Copyright © " + (new Date()).getFullYear() + " Romanysoft LAB."
+    };
+    
+    if(window.RTYConfig.jumpLocation){
+        window.location = window.RTYConfig.jumpLocation;
     }
 })();
